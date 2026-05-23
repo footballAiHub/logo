@@ -1,0 +1,4906 @@
+[
+  {
+    "team_id": "10054",
+    "team_name": "乌兹别克斯坦U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/B2/9B/rBXRDGn_AAiABoBOAAAMkGBJ8fQ234.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "10054.png"
+  },
+  {
+    "team_id": "10093",
+    "team_name": "沙特阿拉伯U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2QmAWthoAAAKQAUuoQY168.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "10093.png"
+  },
+  {
+    "team_id": "1011",
+    "team_name": "特拉维夫马卡比",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/2A/80/rBUESWD2QLuAMbgfAACVwyQZrZU284.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1011.png"
+  },
+  {
+    "team_id": "1038",
+    "team_name": "AC米兰",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/40/C7/rBUBsmgKAi2AB7YsAABGcSYK7N4111.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1038.png"
+  },
+  {
+    "team_id": "1039",
+    "team_name": "罗马",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2KqADgi6AAAba_6LN-Y258.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1039.png"
+  },
+  {
+    "team_id": "1040",
+    "team_name": "尤文图斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/26/03/rB8BO18EiLyAGX4MAAAQluMln8g736.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1040.png"
+  },
+  {
+    "team_id": "1041",
+    "team_name": "帕尔马",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/BA/C2/ChOxM1xJkqaAFLEAAAA7_9HyOpo180.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1041.png"
+  },
+  {
+    "team_id": "1042",
+    "team_name": "国际米兰",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/3A/1F/rBUCgGEm76-AG-wfAABm36DKTJA735.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1042.png"
+  },
+  {
+    "team_id": "1043",
+    "team_name": "拉齐奥",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2KuAXKyqAAAODJzDHSE480.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1043.png"
+  },
+  {
+    "team_id": "1044",
+    "team_name": "乌迪内斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2KuAYBRIAAAq1Zz2ZdU041.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1044.png"
+  },
+  {
+    "team_id": "10443",
+    "team_name": "新未来城体育",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/99/E5/rBUBsmaoV9GABg3zAARPZHaFVJ4327.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "10443.png"
+  },
+  {
+    "team_id": "1047",
+    "team_name": "博洛尼亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/A0/21/rBUBsma6_MWAVCCfAAA0JNxcuVg309.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1047.png"
+  },
+  {
+    "team_id": "1049",
+    "team_name": "莱切",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/44/EC/rBUC6GgKAZaAVkg6AABNIHMI8QM929.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1049.png"
+  },
+  {
+    "team_id": "105202",
+    "team_name": "也门U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2VGAZ2dFAAAAvGpFhCs628.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "105202.png"
+  },
+  {
+    "team_id": "1053",
+    "team_name": "亚特兰大",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1053.png"
+  },
+  {
+    "team_id": "1054",
+    "team_name": "卡利亚里",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2K2ADVZiAAAcbj_bUNA671.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1054.png"
+  },
+  {
+    "team_id": "1057",
+    "team_name": "佛罗伦萨",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/A8/D6/rBUESWKXHHmAEWAbAABdGCZH0sE737.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1057.png"
+  },
+  {
+    "team_id": "10629",
+    "team_name": "温哥华白浪",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8E/ChOxM1xC24SAf4sbAAAS8h6wRjE186.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "10629.png"
+  },
+  {
+    "team_id": "10630",
+    "team_name": "波特兰伐木者",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/5A/rBUCgGKwdrmARpyKAABSarwBSTE022.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "10630.png"
+  },
+  {
+    "team_id": "10653",
+    "team_name": "斐济U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/76/ChOxM1xC2HCANqPKAAAUy60XG1M030.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "10653.png"
+  },
+  {
+    "team_id": "10659",
+    "team_name": "新喀里多尼亚U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/81/ChOxM1xC2WqAYf48AAAfmMksD9o448.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "10659.png"
+  },
+  {
+    "team_id": "1066",
+    "team_name": "都灵",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2K-Af6qXAAAXOFLkWh4029.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1066.png"
+  },
+  {
+    "team_id": "1068",
+    "team_name": "那不勒斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/DE/88/rBUBsmjNOwyAbE5OAAAy9pt4Xpg151.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1068.png"
+  },
+  {
+    "team_id": "1074",
+    "team_name": "热那亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/AF/8B/rBUCgGKqi8WAXwU4AAAjKZD-5ss862.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1074.png"
+  },
+  {
+    "team_id": "1075",
+    "team_name": "维罗纳",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/1D/17/rB8CCl7WAeSAEqtUAABLjx458j0826.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1075.png"
+  },
+  {
+    "team_id": "10791",
+    "team_name": "卡雅",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/9A/88/ChOxM1wU5xaAatq_AAB9UlKq75U171.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "10791.png"
+  },
+  {
+    "team_id": "108",
+    "team_name": "奥地利",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2BSAd33sAAAAwSmUl1c875.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "108.png"
+  },
+  {
+    "team_id": "1081",
+    "team_name": "科莫",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/81/B3/rBUCgGIh4myAFaVWAAAeUuxPzLQ471.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1081.png"
+  },
+  {
+    "team_id": "1088",
+    "team_name": "比萨",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/2C/66/rB8CCl8eT0OAJ9KyAABWPA3Nz_w167.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "1088.png"
+  },
+  {
+    "team_id": "111",
+    "team_name": "卡拉巴赫",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/DE/4D/rBUBsmjNJqeAKjU4AABYh8t-sJs087.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "111.png"
+  },
+  {
+    "team_id": "111685",
+    "team_name": "宁波町渥",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/4A/37/rBUESWFhQOGAeiChAABe0H9WaEg454.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "111685.png"
+  },
+  {
+    "team_id": "1125",
+    "team_name": "大阪钢巴",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/69/05/rBUCgGHNjBaAOgkVAAAmr2gw2GI621.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "1125.png"
+  },
+  {
+    "team_id": "1126",
+    "team_name": "神户胜利船",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LmASWeoAAAS0bhE0QI644.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "1126.png"
+  },
+  {
+    "team_id": "1132",
+    "team_name": "广岛三箭",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LuAL_lrAAAflQ8MyoY775.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "1132.png"
+  },
+  {
+    "team_id": "1146",
+    "team_name": "日本",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2L6AHvC4AAAEdawnP9Q689.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1146.png"
+  },
+  {
+    "team_id": "1147",
+    "team_name": "约旦",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/B2/95/rBXRDGn-_caAPquQAAAJz5HaNGQ223.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1147.png"
+  },
+  {
+    "team_id": "1154",
+    "team_name": "阿拉木图凯拉特",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/1D/10/rBUC6Giue3iAJEs8AAAvHaChHGk950.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "1154.png"
+  },
+  {
+    "team_id": "1167",
+    "team_name": "朝鲜",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2MCAdQv0AAAPDjbzE80360.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1167.png"
+  },
+  {
+    "team_id": "1168",
+    "team_name": "浦项铁人",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2MGAGj3fAABNoEm-5PE792.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "1168.png"
+  },
+  {
+    "team_id": "1170",
+    "team_name": "蔚山HD",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/E4/4E/rBUC6GknrVuAFj-gAABSTmHdNK4633.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "1170.png"
+  },
+  {
+    "team_id": "1177",
+    "team_name": "首尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MOAVhvLAABoCTooOYk867.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "1177.png"
+  },
+  {
+    "team_id": "117741",
+    "team_name": "泰安天贶",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/9C/9B/rBUCgGJ3NxqAAChTAABMhySC9M4401.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "117741.png"
+  },
+  {
+    "team_id": "117751",
+    "team_name": "南通海门珂缔缘",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/7E/69/rBXRDGmMLk2AIDE_AABeRZZYpU8963.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "117751.png"
+  },
+  {
+    "team_id": "117831",
+    "team_name": "赣州瑞狮",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/4D/60/rBUBsmXrMqaAOMqTAAW-IJBVXqk449.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "117831.png"
+  },
+  {
+    "team_id": "117905",
+    "team_name": "云南玉昆",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGoYKAAylWAABfoAgM1WE169.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "117905.png"
+  },
+  {
+    "team_id": "118064",
+    "team_name": "山西崇德荣海",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FD/B9/rBXRn2m6SxeACrEdAABcMXZjvPY315.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "118064.png"
+  },
+  {
+    "team_id": "1181",
+    "team_name": "韩国",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MSAQaWAAAAL1VFSq5U098.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1181.png"
+  },
+  {
+    "team_id": "1182",
+    "team_name": "科威特",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MSAAk5xAAAGSzGQEW4468.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1182.png"
+  },
+  {
+    "team_id": "1183",
+    "team_name": "吉尔吉斯斯坦",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/34/5E/rBUC6GWoxDOAf8qDAAAQctbzkMc031.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1183.png"
+  },
+  {
+    "team_id": "118791",
+    "team_name": "夏洛特",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/58/rBUCgGKwdFWAHbFPAABsaWw29p8547.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "118791.png"
+  },
+  {
+    "team_id": "120",
+    "team_name": "巴林",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2BWAbY9WAAACSOFuQvc213.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "120.png"
+  },
+  {
+    "team_id": "12030",
+    "team_name": "蒙特利尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/A1/0E/rBUCgGRpi4-ALwd4AABMEVUOHJo161.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "12030.png"
+  },
+  {
+    "team_id": "120470",
+    "team_name": "广西平果呗侬女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/83/68/rBUESWIoDoOAMVWDAACc12UODaA167.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "120470.png"
+  },
+  {
+    "team_id": "122423",
+    "team_name": "大连英博",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "122423.png"
+  },
+  {
+    "team_id": "122425",
+    "team_name": "合肥城市",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/A1/D4/rBUCgGKFupOAW3o4AACicfkxDac402.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "122425.png"
+  },
+  {
+    "team_id": "122465",
+    "team_name": "广西恒宸",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/52/2E/rBUBsmlDzvGAEyjwAACQTPGsMj0205.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "122465.png"
+  },
+  {
+    "team_id": "122484",
+    "team_name": "重庆铜梁龙",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/76/30/rBUBsmZPDVWAAPedAAB3_VdHiZg577.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "122484.png"
+  },
+  {
+    "team_id": "122488",
+    "team_name": "大连鲲城",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/F7/13/rBUBsmetnn6AE35JAACGaTtC8_s793.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "122488.png"
+  },
+  {
+    "team_id": "122635",
+    "team_name": "广州蜀地红",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/A6/4E/rBUESWKQ3ImAZOoFAAB2kT97CZ4653.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "122635.png"
+  },
+  {
+    "team_id": "122676",
+    "team_name": "重庆长寿润麒",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/20/CA/rBXRDGnHoUeAGqqbAABuGJVBJN0010.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "122676.png"
+  },
+  {
+    "team_id": "122678",
+    "team_name": "兰州陇原竞技",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FD/B8/rBXRn2m6SsWAblbCAABOJWFmTRA047.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "122678.png"
+  },
+  {
+    "team_id": "122690",
+    "team_name": "贵州村超开大",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/27/B0/rBXRDGnKFQiALxCzAABvGuRwxBg766.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "122690.png"
+  },
+  {
+    "team_id": "122693",
+    "team_name": "长乐金刚腿",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/AC/A0/rBUCgGKhlTuAD0zuAABvfAAMA1o759.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "122693.png"
+  },
+  {
+    "team_id": "122694",
+    "team_name": "泉州青工",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/AB/AD/rBUESWKfIkaATUjuAABihxgLxrc075.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "122694.png"
+  },
+  {
+    "team_id": "122705",
+    "team_name": "北京灵动星空",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/AC/BB/rBUCgGKhzMiAadE-AACYH56nfAg042.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "122705.png"
+  },
+  {
+    "team_id": "122711",
+    "team_name": "临沂红箭",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/71/77/rBUESWPp4ruAfQXkAAIf-0nbz5U050.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "122711.png"
+  },
+  {
+    "team_id": "122712",
+    "team_name": "长春喜都",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/AB/AF/rBUESWKfJd2AFU9RAABtLNfySmg126.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "122712.png"
+  },
+  {
+    "team_id": "123176",
+    "team_name": "印度尼西亚U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2J-AObo9AAAA7100FM4797.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "123176.png"
+  },
+  {
+    "team_id": "123178",
+    "team_name": "缅甸U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2NaAWgOvAAAGlRJHN_4198.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "123178.png"
+  },
+  {
+    "team_id": "123876",
+    "team_name": "山东泰山B队",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "123876.png"
+  },
+  {
+    "team_id": "124270",
+    "team_name": "巴姆卡通女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/BA/C7/rBUBsmcF6liAPClnAABy3F9X1AA949.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "124270.png"
+  },
+  {
+    "team_id": "1243",
+    "team_name": "哈姆伦斯巴达",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MyAEGHIAABsLE_IGAQ560.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1243.png"
+  },
+  {
+    "team_id": "124442",
+    "team_name": "圣路易斯城",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/FE/rBUESWMRoGeANDfvAABExBoHIGE559.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "124442.png"
+  },
+  {
+    "team_id": "125092",
+    "team_name": "成都蓉城B队",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/AB/8E/rBUCgGKew4CAUOkOAAA9_zjGZT8195.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "125092.png"
+  },
+  {
+    "team_id": "125618",
+    "team_name": "上海海港B队",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/6A/80/rB8BO2AbmgCAYbglAABlcqHyDWc494.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "125618.png"
+  },
+  {
+    "team_id": "126425",
+    "team_name": "伊斯佩女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs4/M00/FC/35/ChNLkl4iq-uAclimAACxw0Z4_DU040.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "126425.png"
+  },
+  {
+    "team_id": "1278",
+    "team_name": "墨西哥",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2NOAIENZAAAIVenmXhE159.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1278.png"
+  },
+  {
+    "team_id": "1289",
+    "team_name": "摩洛哥",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2NWAZiM1AAADL6R9t6s156.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1289.png"
+  },
+  {
+    "team_id": "128920",
+    "team_name": "广东广州豹",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/4D/07/rBUBsmXqb7SAddW6AABMAnotTkI207.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "128920.png"
+  },
+  {
+    "team_id": "128936",
+    "team_name": "阿尔卡达格",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/E7/2A/rBUC6Gd18P6AL4aGAAB-ag9yzZg719.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "128936.png"
+  },
+  {
+    "team_id": "129021",
+    "team_name": "武汉三镇B队",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/03/12/rBUCgGL9scyAZ8tgAABCQz3y49E205.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "129021.png"
+  },
+  {
+    "team_id": "129034",
+    "team_name": "杭州临平吴越",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/7E/5A/rBXRn2mMLdqAaJZrAACCMmy7Qgs669.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "129034.png"
+  },
+  {
+    "team_id": "129036",
+    "team_name": "陕西联合",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/D6/A1/rBUC6GiUZ8KARQniAAA74aJW_7c361.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "129036.png"
+  },
+  {
+    "team_id": "129037",
+    "team_name": "青岛追风少年",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/49/FF/rBUESWSAYDqAD2b9AABRPhlQ7Yg254.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "129037.png"
+  },
+  {
+    "team_id": "129041",
+    "team_name": "山东球探",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/32/72/rBUCgGTZ4--AWFdBAATLYRatM-A469.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "129041.png"
+  },
+  {
+    "team_id": "129043",
+    "team_name": "陕西陕安",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/C9/AD/rBUCgGRLe_2AEPxhAAB5iAUvYTY880.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "129043.png"
+  },
+  {
+    "team_id": "129052",
+    "team_name": "贵州栩烽棠",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/85/1E/rBXRn2mOuaqAa6FdAACdaZYO8KA579.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "129052.png"
+  },
+  {
+    "team_id": "129055",
+    "team_name": "深圳青年人",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0D/08/rBUBsmUxDQiAII9KAACcuApA09c065.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "129055.png"
+  },
+  {
+    "team_id": "129056",
+    "team_name": "上海赛更达",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FD/CA/rBXRDGm6S92AO-6ZAABd7wEiX0w554.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "129056.png"
+  },
+  {
+    "team_id": "129057",
+    "team_name": "成都宇晖仁德",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/7A/3A/rBUCgGQ_0LmAJkVsAABofzlckR0787.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "129057.png"
+  },
+  {
+    "team_id": "129058",
+    "team_name": "厦门飞鹭",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/6C/4F/rBUCgGRh59WAGB9nAABqZZMejzM377.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "129058.png"
+  },
+  {
+    "team_id": "129188",
+    "team_name": "云南爨合",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/27/99/rBXRn2nKEkeAdKupAABpbDaNIsQ981.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "129188.png"
+  },
+  {
+    "team_id": "1295",
+    "team_name": "阿贾克斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/DD/27/rBUC6GhH_OKARUiyAACWHjZ6P6U434.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "1295.png"
+  },
+  {
+    "team_id": "1296",
+    "team_name": "阿尔克马尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2NeAbNTmAAALeuzKvJo249.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1296.png"
+  },
+  {
+    "team_id": "1297",
+    "team_name": "PSV埃因霍温",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/9C/38/rBUCgGJ2O5WAbn9TAABVQqGB2g8630.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "1297.png"
+  },
+  {
+    "team_id": "1298",
+    "team_name": "费耶诺德",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2NeADcJjAAAVjrA2UMQ783.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1298.png"
+  },
+  {
+    "team_id": "13",
+    "team_name": "阿尔及利亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/71/ChOxM1xC2ASAL31DAAAHtIt8DXA565.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "13.png"
+  },
+  {
+    "team_id": "1303",
+    "team_name": "乌德勒支",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/25/7B/rBUCgGDlFDmAZmn1AAA-QLZYazQ258.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1303.png"
+  },
+  {
+    "team_id": "1320",
+    "team_name": "前进之鹰",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2NyAC0HyAAAerHkEWzQ042.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1320.png"
+  },
+  {
+    "team_id": "1331",
+    "team_name": "荷兰",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2N6AEWYMAAABPByVIVM465.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1331.png"
+  },
+  {
+    "team_id": "1332",
+    "team_name": "库拉索",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2N6AK5gOAAADXUM7-Kk431.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1332.png"
+  },
+  {
+    "team_id": "133476",
+    "team_name": "辽宁沈北禾丰女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/35/74/rBUBsmW4TomARzAVAAEuTn9wxws740.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "133476.png"
+  },
+  {
+    "team_id": "1341",
+    "team_name": "新西兰",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2N-Aa55oAAAKHk0Xucs443.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1341.png"
+  },
+  {
+    "team_id": "136105",
+    "team_name": "纳萨夫女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/27/B5/rBUBsmWKmn6AT8mmAACPStUPmYM229.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "136105.png"
+  },
+  {
+    "team_id": "1366",
+    "team_name": "布兰",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2OOAMaDbAAAHRDuRliA727.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1366.png"
+  },
+  {
+    "team_id": "136665",
+    "team_name": "东孟加拉女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/1B/12/rBUCgGNXPaeANneiAACav1rF2UY243.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "136665.png"
+  },
+  {
+    "team_id": "136705",
+    "team_name": "厦门集美诚毅",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/1D/A6/rBUC6GVfYy2AN0eKAANwQx2FM4Q342.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "136705.png"
+  },
+  {
+    "team_id": "1370",
+    "team_name": "博德闪耀",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2OSAaBysAAAVazcNkvY434.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "1370.png"
+  },
+  {
+    "team_id": "137605",
+    "team_name": "深圳吉祥",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/2C/48/rBUBsmWbue-APp0UAAHJbvH5HPY221.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "137605.png"
+  },
+  {
+    "team_id": "13762",
+    "team_name": "德里塔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/A1/1B/ChOxM1wg-3qAVVOrAAA9sdXkhSw228.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "13762.png"
+  },
+  {
+    "team_id": "137776",
+    "team_name": "山西娄烦翔宇",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0C/1B/rBUC6GfaOqSANCj4AAB4aRkkrfE554.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "137776.png"
+  },
+  {
+    "team_id": "137778",
+    "team_name": "广州蒲公英",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FD/B9/rBXRn2m6S2-AACt6AAA_3Qe1vM4783.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "137778.png"
+  },
+  {
+    "team_id": "137803",
+    "team_name": "贵州贵阳竞技",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/2E/FB/rBUBsmWlCyaAZyCCAAVJhiAQME0460.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "137803.png"
+  },
+  {
+    "team_id": "138259",
+    "team_name": "宁夏平罗恒利",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/49/FC/rBUC6GXYARyAAf5vAADD4PK7xfY356.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "138259.png"
+  },
+  {
+    "team_id": "138853",
+    "team_name": "武汉联镇",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/59/D6/rBUBsmYL28WAEnEyAAFApImWBds334.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "138853.png"
+  },
+  {
+    "team_id": "138854",
+    "team_name": "山西龙盛",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/8C/E2/rBXRDGnwF7mAKmVrAACjufXg_9o501.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "138854.png"
+  },
+  {
+    "team_id": "138862",
+    "team_name": "聊城传奇",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/36/51/rBXRDGnPb4WAL1KWAABPYnIM3jY620.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "138862.png"
+  },
+  {
+    "team_id": "138863",
+    "team_name": "广东铭途",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/6C/rBUBsmfkwsGARXM6AACEzW_foZk166.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "138863.png"
+  },
+  {
+    "team_id": "138865",
+    "team_name": "海南双玉",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/5A/23/rBUBsmYMuo2AfTpUAAEYzbxzN64035.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "138865.png"
+  },
+  {
+    "team_id": "138866",
+    "team_name": "重庆两江瀚达",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/3A/C0/rBXRn2lzD5CARhDRAABT3cuEn5E707.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "138866.png"
+  },
+  {
+    "team_id": "138867",
+    "team_name": "陕西西北青年人",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/6E/45/rBUC6GYvZmyAHeTSAANxT8Ws6wk127.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "138867.png"
+  },
+  {
+    "team_id": "138880",
+    "team_name": "青海昆仑",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/5E/55/rBUC6GYMyR6AMAtEAALMr2tOnUE967.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "138880.png"
+  },
+  {
+    "team_id": "138883",
+    "team_name": "深圳二零二八",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0F/92/rBUC6GfkwviAIpJ_AAAvC7vCrdA309.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "138883.png"
+  },
+  {
+    "team_id": "1389",
+    "team_name": "挪威",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2OaAYv00AAABrhQP22I466.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1389.png"
+  },
+  {
+    "team_id": "1390",
+    "team_name": "阿曼",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2OeABcv-AAAShQE7bQc288.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1390.png"
+  },
+  {
+    "team_id": "1392",
+    "team_name": "巴勒斯坦",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2OeAQNGHAAAC7NfdKHY533.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1392.png"
+  },
+  {
+    "team_id": "1393",
+    "team_name": "巴拿马",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2OeAS3ajAAADqpnHFS0036.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1393.png"
+  },
+  {
+    "team_id": "139541",
+    "team_name": "圣地亚哥",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/79/40/rBUC6GZMOj-ABtAHAACCEemepd0305.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "139541.png"
+  },
+  {
+    "team_id": "140484",
+    "team_name": "大连英博B队",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/E3/10/rBUBsmd2N7eAFL-aAABdbAi7k60008.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "140484.png"
+  },
+  {
+    "team_id": "1405",
+    "team_name": "巴拉圭",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/B2/45/rBXRDGn-3pCASTguAAAK68EPPjA393.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1405.png"
+  },
+  {
+    "team_id": "140539",
+    "team_name": "狮城水手女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/12/DB/rBUCgGCmHxiALFPYAABv0YZ5o4E776.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "140539.png"
+  },
+  {
+    "team_id": "140613",
+    "team_name": "沈阳满天星奥美",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/9A/D5/rBUC6GaeGA2AFUR_AAEZ_NAyKxw973.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "140613.png"
+  },
+  {
+    "team_id": "141009",
+    "team_name": "玉树牦牛",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/27/A3/rBXRn2nKFh-AEMsJAABO50OPdpQ370.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "141009.png"
+  },
+  {
+    "team_id": "14112",
+    "team_name": "克拉约瓦大学",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/91/ChOxM1xC3CqAWttRAAAZE6WVDkU242.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "14112.png"
+  },
+  {
+    "team_id": "1421",
+    "team_name": "华沙莱吉亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2O2APUHcAAAQatRnmS0830.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1421.png"
+  },
+  {
+    "team_id": "14227",
+    "team_name": "中国U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DyASaamAAAEq1PV5Sc240.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "14227.png"
+  },
+  {
+    "team_id": "1426",
+    "team_name": "波兹南莱赫",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2O2ACWySAAASXOIGqDA185.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1426.png"
+  },
+  {
+    "team_id": "143",
+    "team_name": "布鲁日",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2BiALkUJAAAcry0ezFw408.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "143.png"
+  },
+  {
+    "team_id": "1440",
+    "team_name": "雅盖隆",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/75/B7/rBUESWMMKQOAbNh_AABRRD91PcQ455.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1440.png"
+  },
+  {
+    "team_id": "1446",
+    "team_name": "波尔图",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PGAEhtHAAAcbrPyoBM248.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1446.png"
+  },
+  {
+    "team_id": "14469",
+    "team_name": "河内公安",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/27/E8/rBUESWO7cmOAB1bLAACXYdAKNoY658.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "14469.png"
+  },
+  {
+    "team_id": "1447",
+    "team_name": "本菲卡",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PGAI_XDAAAgrn8x7t4637.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "1447.png"
+  },
+  {
+    "team_id": "14473",
+    "team_name": "胡志明市女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/9C/29/rBUC6GgtjqKAIbNlAABoxlqjs6s958.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "14473.png"
+  },
+  {
+    "team_id": "1448",
+    "team_name": "葡萄牙体育",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PKAN7dTAAAXsVr9cvI779.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "1448.png"
+  },
+  {
+    "team_id": "1450",
+    "team_name": "布拉加",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PKAS-yeAAAbMWD4AN4598.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1450.png"
+  },
+  {
+    "team_id": "146810",
+    "team_name": "深圳兴隽",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/D9/C8/rBUC6GdNJiCAeLhmAANWaFDb6x4653.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "146810.png"
+  },
+  {
+    "team_id": "146994",
+    "team_name": "上海泽天",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/C0/26/rBXRn2mjlAKAbVFzAACFnI1rjPA363.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "146994.png"
+  },
+  {
+    "team_id": "147436",
+    "team_name": "广东吴川青年",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/FE/95/rBUC6Ge2iOSAWj65AAiHgfxeUfM281.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "147436.png"
+  },
+  {
+    "team_id": "14830",
+    "team_name": "纽约城",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/BA/C6/rBUBsmcF6SiAfZ8MAACK1MCbVYw794.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "14830.png"
+  },
+  {
+    "team_id": "148428",
+    "team_name": "大连可为",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/BC/67/rBXRn2miSuSAKwcbAABZrZTM2-c968.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "148428.png"
+  },
+  {
+    "team_id": "14904",
+    "team_name": "江西庐山",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/3E/11/rBUCgGQJuBeAbVxDAABiX938GgI413.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "14904.png"
+  },
+  {
+    "team_id": "14906",
+    "team_name": "梅州客家",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/B0/ChOxM1xSqXGAAs4sAABZCJvj6Fs375.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "14906.png"
+  },
+  {
+    "team_id": "14907",
+    "team_name": "宁波",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/E6/32/rBUC6Glgl_yAY7hkAAA9scgaOgc424.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "14907.png"
+  },
+  {
+    "team_id": "149963",
+    "team_name": "黑龙江龙跃冰城",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/01/5D/rBUC6Ge9ILqAK8o8AABs_3GH-1U584.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "149963.png"
+  },
+  {
+    "team_id": "150153",
+    "team_name": "济南泉盛山大",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/06/A1/rBUC6GfL5-aABDjPAAI9UJ2uyYg447.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150153.png"
+  },
+  {
+    "team_id": "150392",
+    "team_name": "天津棣华津英",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/D4/rBUC6GfZG4mATWF5AADJF4ll4BI040.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "150392.png"
+  },
+  {
+    "team_id": "150397",
+    "team_name": "呼市绿茵",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/07/AB/rBUBsmfZGNSATn_iAACXgK8cEPA651.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150397.png"
+  },
+  {
+    "team_id": "150400",
+    "team_name": "大连海青昌隆",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/D5/rBUC6GfZH5uAVON0AACsRLgDYgs586.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150400.png"
+  },
+  {
+    "team_id": "150405",
+    "team_name": "榆林矿工旅投",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/07/AB/rBUBsmfZGWGAOR48AAC5S8F0s_A506.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150405.png"
+  },
+  {
+    "team_id": "150406",
+    "team_name": "北京鹏瑞通程",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/1F/D1/rBXRn2nHUIiAMkTzAABxZQP1nhs708.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150406.png"
+  },
+  {
+    "team_id": "150408",
+    "team_name": "成都顶耀蜀锦",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/E4/44/rBUC6Gkmm_qAew9KAAB0kq7xsIg108.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150408.png"
+  },
+  {
+    "team_id": "150409",
+    "team_name": "广州联增城澳体",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/D2/rBUC6GfZFlSAQCtLAABicNjLX0E482.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150409.png"
+  },
+  {
+    "team_id": "150411",
+    "team_name": "新疆金盾",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/D3/rBUC6GfZGG-AWjjxAAChT0i2lRc839.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150411.png"
+  },
+  {
+    "team_id": "150414",
+    "team_name": "湖北超级先生",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/D2/rBUC6GfZFBOAM2gkAACCyzh3MRU495.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150414.png"
+  },
+  {
+    "team_id": "150415",
+    "team_name": "南京龙胜",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/07/AA/rBUBsmfZFHCAO6FrAABiXaig2Tw439.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150415.png"
+  },
+  {
+    "team_id": "150416",
+    "team_name": "武汉两江金岸",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/07/AA/rBUBsmfZFRaAfB25AABsANIeb4Q122.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150416.png"
+  },
+  {
+    "team_id": "150417",
+    "team_name": "五华华京",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/07/AA/rBUBsmfZFZKASpGJAABuljTIkzo399.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150417.png"
+  },
+  {
+    "team_id": "150418",
+    "team_name": "烟台鑫海中天",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/D3/rBUC6GfZFr-AVywGAABlUABryIs237.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "150418.png"
+  },
+  {
+    "team_id": "150420",
+    "team_name": "广州悦高",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/D1/rBUC6GfZEuiAB_dbAACDtuN4yGs372.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "150420.png"
+  },
+  {
+    "team_id": "150421",
+    "team_name": "贵州飞鹰",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/D2/rBUC6GfZE2SAFNUJAACWptjN1Dw925.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "150421.png"
+  },
+  {
+    "team_id": "152",
+    "team_name": "亨克",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2BqAVJYLAAAW0-N8xY4041.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "152.png"
+  },
+  {
+    "team_id": "152735",
+    "team_name": "南京队",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FA/53/rBXRn2m5BxeAFWxNAABhU4eAfs8770.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152735.png"
+  },
+  {
+    "team_id": "152738",
+    "team_name": "无锡队",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/95/F9/rBUC6Gh9-kiAcqmtAABuNHrWGwM559.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152738.png"
+  },
+  {
+    "team_id": "152739",
+    "team_name": "徐州队",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FA/64/rBXRDGm5B5eAYjI7AAB1MfXIdJs336.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152739.png"
+  },
+  {
+    "team_id": "152740",
+    "team_name": "常州队",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FA/55/rBXRn2m5B82AEb8GAACIKjQcBVQ132.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152740.png"
+  },
+  {
+    "team_id": "152741",
+    "team_name": "苏州队",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FA/65/rBXRDGm5CACAKsi1AACGWSAK7vw891.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152741.png"
+  },
+  {
+    "team_id": "152742",
+    "team_name": "南通队",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/95/E6/rBUC6Gh99qOAOFXRAABV4r4LOH0580.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152742.png"
+  },
+  {
+    "team_id": "152743",
+    "team_name": "连云港队",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/2B/8D/rBXRDGnLeiWAAyOMAADGEwqDAz8168.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152743.png"
+  },
+  {
+    "team_id": "152744",
+    "team_name": "淮安队",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/9B/25/rBUC6GgtLEiASxpqAAB316_4YoA716.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152744.png"
+  },
+  {
+    "team_id": "152745",
+    "team_name": "盐城队",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/96/0B/rBUC6Gh9_dOAJ4osAABxZg86Ld0723.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152745.png"
+  },
+  {
+    "team_id": "152746",
+    "team_name": "扬州队",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FA/52/rBXRn2m5BsaAOrqVAAB7Ln2DEQI664.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152746.png"
+  },
+  {
+    "team_id": "152747",
+    "team_name": "镇江队",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FA/65/rBXRDGm5CDiAeS4EAABq74fAKSY483.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152747.png"
+  },
+  {
+    "team_id": "152748",
+    "team_name": "泰州队",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/9B/27/rBUC6GgtLRaAYOMFAACM3ZDQDdc744.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152748.png"
+  },
+  {
+    "team_id": "152749",
+    "team_name": "宿迁队",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/FA/53/rBXRn2m5B12AUKvkAACqqa7ZZTc051.png",
+    "competition_id": "8647",
+    "competition_name": "苏超",
+    "file_name": "152749.png"
+  },
+  {
+    "team_id": "1540",
+    "team_name": "葡萄牙",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PuALvwRAAAK3F_koeE108.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1540.png"
+  },
+  {
+    "team_id": "1542",
+    "team_name": "卡塔尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/23/44/rBUCgGNYoSGAKiiUAAATPmO8oGA233.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1542.png"
+  },
+  {
+    "team_id": "1544",
+    "team_name": "布加勒斯特星",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PyAZ0QxAAAn8oxB4OM599.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1544.png"
+  },
+  {
+    "team_id": "15477",
+    "team_name": "果阿",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/91/ChOxM1xC3FKALUS1AAAIWh4aStU310.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "15477.png"
+  },
+  {
+    "team_id": "155918",
+    "team_name": "我故乡女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/54/D7/rBUC6GjCfiiAa_l7AABegmEWb2U147.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "155918.png"
+  },
+  {
+    "team_id": "155920",
+    "team_name": "内湖公马女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/A5/1A/rBUC6Ga9bmiAdeDQAAB2Km_W2tM063.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "155920.png"
+  },
+  {
+    "team_id": "15715",
+    "team_name": "南通支云",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/92/ChOxM1xC3GCADDjDAACIYq-FPG87912074",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "15715.png"
+  },
+  {
+    "team_id": "15719",
+    "team_name": "定南赣联",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/F9/80/rBUBsme0BYeAfAQGAABxe6iDvrY387.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "15719.png"
+  },
+  {
+    "team_id": "15737",
+    "team_name": "中国澳门U23",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MmAHAnWAAAIiA9arFE200.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "15737.png"
+  },
+  {
+    "team_id": "15794",
+    "team_name": "墨尔本城女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8D/ChOxM1xC2xqAQIGvAAAd7aTyRms930.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "15794.png"
+  },
+  {
+    "team_id": "158307",
+    "team_name": "新疆兵超",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/5C/09/rBXRDGndt7WAPXdPAAB1AEIqShM621.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "158307.png"
+  },
+  {
+    "team_id": "160224",
+    "team_name": "本溪清帆",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/C8/B7/rBUBsmjFED2AfuQ1AALH50jzdeE994.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "160224.png"
+  },
+  {
+    "team_id": "16040",
+    "team_name": "帕福斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/9F/E1/ChOxM1weeD2AT9YUAABK-f_KKaY900.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "16040.png"
+  },
+  {
+    "team_id": "160464",
+    "team_name": "遂宁舍得干",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/AE/C7/rBXRDGn9dg-AfWFZAACtQpXBaq0033.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "160464.png"
+  },
+  {
+    "team_id": "16353",
+    "team_name": "辛辛那提",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/54/rBUESWKwd6aAAPqKAAA5jQb4pAw847.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "16353.png"
+  },
+  {
+    "team_id": "16398",
+    "team_name": "苏州东吴",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/92/ChOxM1xC3HeAb6SzAACGjQi3xPE579.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "16398.png"
+  },
+  {
+    "team_id": "1640",
+    "team_name": "沙特阿拉伯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2QmAWthoAAAKQAUuoQY168.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1640.png"
+  },
+  {
+    "team_id": "16400",
+    "team_name": "辽宁铁人",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/75/07/rBXRn2nnObmAEDgWAACP2kSeLY0556.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "16400.png"
+  },
+  {
+    "team_id": "1641",
+    "team_name": "凯尔特人",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/25/DA/rBUC6GixgBaAASDKAACJoyDCBRE379.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1641.png"
+  },
+  {
+    "team_id": "1642",
+    "team_name": "格拉斯哥流浪者",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/70/F2/rB8CCmA8iGCAXMeJAAB7aqt-asU255.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1642.png"
+  },
+  {
+    "team_id": "1651",
+    "team_name": "阿伯丁",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/EA/C8/rBUESWP8YImAcviyAABJk0VTjVs442.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1651.png"
+  },
+  {
+    "team_id": "165142",
+    "team_name": "舟山佳玉",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/3A/E6/rBXRDGlzHC6AVHdBAAB_lewpBbE121.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "165142.png"
+  },
+  {
+    "team_id": "165143",
+    "team_name": "南通家纺城",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/3A/E6/rBXRDGlzG5aAe7xaAACVhUDFbQg876.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "165143.png"
+  },
+  {
+    "team_id": "165144",
+    "team_name": "青岛复力",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/3A/DF/rBXRn2lzHF2AF_j2AACvPxFnqFk027.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "165144.png"
+  },
+  {
+    "team_id": "165145",
+    "team_name": "东兴绿茵",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/3A/E6/rBXRDGlzG9mABKC1AABy6ihXyrQ218.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "165145.png"
+  },
+  {
+    "team_id": "165146",
+    "team_name": "深圳科宇盛达",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/3A/DD/rBXRn2lzG3CAXSqOAACJrrvE-eU575.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "165146.png"
+  },
+  {
+    "team_id": "165147",
+    "team_name": "山西三晋",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/3A/DF/rBXRn2lzHAaAL957AACPPq68haA493.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "165147.png"
+  },
+  {
+    "team_id": "165148",
+    "team_name": "湖州长兴锦城",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/3A/E9/rBXRDGlzHJCACSDeAACDO82NfPo880.png",
+    "competition_id": "251",
+    "competition_name": "足协杯",
+    "file_name": "165148.png"
+  },
+  {
+    "team_id": "165308",
+    "team_name": "四川叁壹捌重龙",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/37/E1/rBXRDGlx6hiAHE_uAAB5xBL-jiw225.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "165308.png"
+  },
+  {
+    "team_id": "165309",
+    "team_name": "广东晨星聚力",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/24/rBXRDGnA8P-AWhNXAACTS2v3Izo478.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "165309.png"
+  },
+  {
+    "team_id": "166308",
+    "team_name": "江苏常晋",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/E8/E1/rBXRDGmymVmANJEtAAAJnyIo4NY336.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "166308.png"
+  },
+  {
+    "team_id": "166927",
+    "team_name": "安徽皖美",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/CC/29/rBXRn2mnxq6AUOfFAAA79LaoDjs869.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "166927.png"
+  },
+  {
+    "team_id": "167546",
+    "team_name": "云南青丘",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/16/rBXRDGnA6zWAUi2FAACgrDMp8yE648.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167546.png"
+  },
+  {
+    "team_id": "167547",
+    "team_name": "重庆笛凯忠赤",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/10/rBXRn2nA7eCAOfoRAACrTc1mK54766.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167547.png"
+  },
+  {
+    "team_id": "167548",
+    "team_name": "临泉志匡",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/11/rBXRn2nA7iyATEfXAACi45YJiWw427.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167548.png"
+  },
+  {
+    "team_id": "167549",
+    "team_name": "大连聚惺晟恒",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/26/EC/rBXRDGnJ0YmACWhNAAC8Fyx6gdw916.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167549.png"
+  },
+  {
+    "team_id": "167550",
+    "team_name": "梅州强民",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/14/rBXRn2nA71CAXkSQAAB_lgAOHMU298.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167550.png"
+  },
+  {
+    "team_id": "167551",
+    "team_name": "广州海珠醒派",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/27/A1/rBXRn2nKFZeAQucNAACE8rALaBY904.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167551.png"
+  },
+  {
+    "team_id": "167552",
+    "team_name": "广州黄埔志诚",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/15/rBXRn2nA8BOAK04DAACkzHvsF44826.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167552.png"
+  },
+  {
+    "team_id": "167553",
+    "team_name": "赣州红星",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/22/rBXRDGnA8FiAULT2AABeid_m7f0633.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167553.png"
+  },
+  {
+    "team_id": "167554",
+    "team_name": "盐城东台安贝斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/24/rBXRDGnA8KGAJfWBAACCZw_wkzA010.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167554.png"
+  },
+  {
+    "team_id": "167556",
+    "team_name": "泰州早茶黑马",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/18/rBXRn2nA8VqAeBbkAACQ1KhBR-A885.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167556.png"
+  },
+  {
+    "team_id": "167557",
+    "team_name": "济南林凯赛福",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/19/rBXRn2nA8ZiAM0ZWAACle3EtNAc281.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167557.png"
+  },
+  {
+    "team_id": "167558",
+    "team_name": "张家口奥峰",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/19/rBXRn2nA8eSAeDR1AACkCb3TUK4471.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167558.png"
+  },
+  {
+    "team_id": "167559",
+    "team_name": "昆山张浦竞技",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/26/rBXRDGnA8iGAF48fAAByER0u6Rk786.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167559.png"
+  },
+  {
+    "team_id": "167560",
+    "team_name": "扬州三湾乐道",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/28/rBXRDGnA8mSAbgkSAAC0yJjPCmA704.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167560.png"
+  },
+  {
+    "team_id": "167561",
+    "team_name": "辽宁盛京新锐",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/27/A5/rBXRn2nKFpSAQJwVAABbfGuUkpQ137.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167561.png"
+  },
+  {
+    "team_id": "167562",
+    "team_name": "自贡弘祥电碳",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/27/A8/rBXRDGnKEfqALnrcAABip5rFQno177.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167562.png"
+  },
+  {
+    "team_id": "167563",
+    "team_name": "乌兰察布青年人",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/27/A6/rBXRn2nKFw-AEYgjAABg0agcdE4759.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167563.png"
+  },
+  {
+    "team_id": "167564",
+    "team_name": "邢台沙河万率",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/2C/rBXRDGnA87yAECC-AACkn2HVDlE420.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167564.png"
+  },
+  {
+    "team_id": "167565",
+    "team_name": "北京韦斯卡",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/27/rBXRn2nA9vyAFo3tAACVDC9hbC8340.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167565.png"
+  },
+  {
+    "team_id": "167566",
+    "team_name": "邯郸学院赵都",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/27/rBXRn2nA9zmAfdx4AACBLpLXFK4100.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167566.png"
+  },
+  {
+    "team_id": "167567",
+    "team_name": "石家庄美佳晟",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/29/rBXRn2nA98uAWoCVAACvDwViDlc450.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167567.png"
+  },
+  {
+    "team_id": "167568",
+    "team_name": "北京勇士",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/2A/rBXRn2nA-AiAJloQAACTE2t-fwo231.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167568.png"
+  },
+  {
+    "team_id": "167569",
+    "team_name": "大连传易",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/36/rBXRDGnA-C-ALwkLAABxWA89Q9o076.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167569.png"
+  },
+  {
+    "team_id": "167570",
+    "team_name": "陕西宝鸡联腾",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/37/rBXRDGnA-RGAUBSCAABsp3diWe8084.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167570.png"
+  },
+  {
+    "team_id": "167571",
+    "team_name": "新疆斯巴达懂球哥",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/2C/rBXRn2nA-V-ASrxhAACllKE_yWw839.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167571.png"
+  },
+  {
+    "team_id": "167572",
+    "team_name": "北京一生和球",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/38/rBXRDGnA-YmAYWNfAABpBiQBXyQ416.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167572.png"
+  },
+  {
+    "team_id": "167573",
+    "team_name": "大连桐哲",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/2E/rBXRn2nA-beAemmvAABz9T7ntGc005.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167573.png"
+  },
+  {
+    "team_id": "167575",
+    "team_name": "通辽通达",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/0F/41/rBXRDGnA_HOANjC2AAB2PgHtFUY511.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "167575.png"
+  },
+  {
+    "team_id": "1683",
+    "team_name": "苏格兰",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2RGARlXJAAADZRt3Z5E811.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1683.png"
+  },
+  {
+    "team_id": "1684",
+    "team_name": "塞内加尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2RKAS3NNAAAC2Nr8OzA389.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1684.png"
+  },
+  {
+    "team_id": "1685",
+    "team_name": "贝尔格莱德红星",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/88/BC/rBUESWI4U_CAaT3fAAA0XnRbhFM660.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1685.png"
+  },
+  {
+    "team_id": "169583",
+    "team_name": "黎巴嫩/也门",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/BF/C4/rBXRDGoENTSAKza8AACkyGimCLc960.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "169583.png"
+  },
+  {
+    "team_id": "1708",
+    "team_name": "淡滨尼流浪者",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2RWAd4w1AAAanEWBF0g586.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "1708.png"
+  },
+  {
+    "team_id": "1709",
+    "team_name": "狮城水手",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/12/DB/rBUCgGCmHxiALFPYAABv0YZ5o4E776.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "1709.png"
+  },
+  {
+    "team_id": "1713",
+    "team_name": "新加坡",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2ReAbcneAAAEdjusY1A976.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1713.png"
+  },
+  {
+    "team_id": "1723",
+    "team_name": "布拉迪斯拉发",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2RiAJygNAAAXzJdJorI934.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1723.png"
+  },
+  {
+    "team_id": "1744",
+    "team_name": "采列",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/A1/02/rBUESWKDQ36AeAtaAABrffy0W8E825.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1744.png"
+  },
+  {
+    "team_id": "1753",
+    "team_name": "南非",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2RuADToCAAAEmtXhz7o022.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1753.png"
+  },
+  {
+    "team_id": "1754",
+    "team_name": "瓦伦西亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/3B/05/rBUCgGQJVECARcPvAAAxrmndCwc316.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1754.png"
+  },
+  {
+    "team_id": "1755",
+    "team_name": "皇家马德里",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2RyAN-6QAAB1jvar4XU631.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1755.png"
+  },
+  {
+    "team_id": "1756",
+    "team_name": "巴塞罗那",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/66/E2/rBUBsmYmBYWAHCF1AABF6P632AI376.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1756.png"
+  },
+  {
+    "team_id": "1758",
+    "team_name": "毕尔巴鄂竞技",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2R2AJqdFAAA5Xt4A9QI166.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1758.png"
+  },
+  {
+    "team_id": "1759",
+    "team_name": "马德里竞技",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/8E/17/rBUC6GZ9G82AT7dBAAArg2eVbcE720.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1759.png"
+  },
+  {
+    "team_id": "1760",
+    "team_name": "塞维利亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2R2ATzeYAAAYt05oZeQ154.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1760.png"
+  },
+  {
+    "team_id": "1761",
+    "team_name": "奥萨苏纳",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2R2AXpkPAAAS36VZ32k951.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1761.png"
+  },
+  {
+    "team_id": "1762",
+    "team_name": "比利亚雷亚尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2R6AAt5wAAAXcqv7xdg149.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1762.png"
+  },
+  {
+    "team_id": "1764",
+    "team_name": "皇家贝蒂斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/E8/04/rBUESWS3jz-AHbAcAAAybCXN49E972.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1764.png"
+  },
+  {
+    "team_id": "1766",
+    "team_name": "马略卡",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2R-Aewl5AAAeekI8gWs193.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1766.png"
+  },
+  {
+    "team_id": "1767",
+    "team_name": "皇家社会",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2R-Abx4AAAAf6eKe6ts725.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1767.png"
+  },
+  {
+    "team_id": "1771",
+    "team_name": "西班牙人",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2SCAPooIAAAVlfYdaM0451.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1771.png"
+  },
+  {
+    "team_id": "1772",
+    "team_name": "塞尔塔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2SCAD-5mAAANAq6Y1ns233.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1772.png"
+  },
+  {
+    "team_id": "1775",
+    "team_name": "莱万特",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2SGAFWe4AAAZti4VXLs391.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1775.png"
+  },
+  {
+    "team_id": "1776",
+    "team_name": "阿拉维斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/2D/D9/rB8CCl8jue2AA7GTAABUDxxvCAY997.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1776.png"
+  },
+  {
+    "team_id": "1778",
+    "team_name": "赫塔费",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/C8/01/rBXRn2mmVfmASCxfAACD3diJxr8047.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1778.png"
+  },
+  {
+    "team_id": "1782",
+    "team_name": "埃尔切",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/3C/96/rB8CCl9QpjSAR5D_AABSbdl9CSo299.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1782.png"
+  },
+  {
+    "team_id": "1793",
+    "team_name": "巴列卡诺",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/69/4A/rB8BO2AWGCGAPNvmAABtCa1bMjI839.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1793.png"
+  },
+  {
+    "team_id": "1836",
+    "team_name": "赫罗纳",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/BA/23/rBUCgGLNFA-ATjAKAAB0PmbXnGU040.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "1836.png"
+  },
+  {
+    "team_id": "1869",
+    "team_name": "西班牙",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2TCAWMemAAAJsy8Pgbg246.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1869.png"
+  },
+  {
+    "team_id": "1878",
+    "team_name": "马尔默",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2TKARzzqAAAKHmkT_5Q489.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1878.png"
+  },
+  {
+    "team_id": "188",
+    "team_name": "圣吉罗斯联合",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/DE/48/rBUBsmjNJDCAIsViAABTxSzsBYc486.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "188.png"
+  },
+  {
+    "team_id": "1904",
+    "team_name": "瑞典",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2TeAejqdAAABczmP1jg125.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1904.png"
+  },
+  {
+    "team_id": "1905",
+    "team_name": "巴塞尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2TeAcrjnAABiXJmv7A0690.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1905.png"
+  },
+  {
+    "team_id": "1906",
+    "team_name": "伯尔尼年轻人",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2TeAcSywAAAYJfjI_mM711.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1906.png"
+  },
+  {
+    "team_id": "1931",
+    "team_name": "瑞士",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2TyANIAKAAABeUfO5gM520.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1931.png"
+  },
+  {
+    "team_id": "1932",
+    "team_name": "叙利亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/E4/62/rBUC6GkqaeGAN8vTAAAL_hPg32g853.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1932.png"
+  },
+  {
+    "team_id": "1935",
+    "team_name": "塔吉克斯坦",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2T2AQEEOAAADhe1936s504.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1935.png"
+  },
+  {
+    "team_id": "1937",
+    "team_name": "泰国",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2T2AEHoVAAAA5MoIiDo797.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1937.png"
+  },
+  {
+    "team_id": "1941",
+    "team_name": "突尼斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2T6AVxyuAAAF5xZKmyM136.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1941.png"
+  },
+  {
+    "team_id": "1942",
+    "team_name": "费内巴切",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2T6AdPMOAAAgV5BrYhI320.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "1942.png"
+  },
+  {
+    "team_id": "1947",
+    "team_name": "加拉塔萨雷",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/DE/51/rBUBsmjNKHSAWAmdAAAr1eR9Weo019.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "1947.png"
+  },
+  {
+    "team_id": "1950",
+    "team_name": "萨姆松体育",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UCAMVLiAAAUZhKEBQM825.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1950.png"
+  },
+  {
+    "team_id": "19699",
+    "team_name": "越南U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2U-ACKo5AAADlnvYmoE306.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "19699.png"
+  },
+  {
+    "team_id": "1977",
+    "team_name": "土耳其",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UOAAUUEAAAE_nJ2nXk049.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "1977.png"
+  },
+  {
+    "team_id": "1982",
+    "team_name": "基辅迪纳摩",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2USAFGEyAAARINnN-qc194.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1982.png"
+  },
+  {
+    "team_id": "1983",
+    "team_name": "顿涅茨克矿工",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UWAQJh1AAAUcQSlCiE228.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "1983.png"
+  },
+  {
+    "team_id": "1998",
+    "team_name": "阿联酋",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UeADe-pAAABM6khVfc558.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "1998.png"
+  },
+  {
+    "team_id": "1999",
+    "team_name": "洛杉矶银河",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/5A/rBUCgGKwdzmAIil_AAA0IekBTZw018.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "1999.png"
+  },
+  {
+    "team_id": "2000",
+    "team_name": "芝加哥火焰",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/20/59/rBUCgGDS2nqAYUkPAAB061c7xA0232.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "2000.png"
+  },
+  {
+    "team_id": "2001",
+    "team_name": "堪萨斯城体育",
+    "team_logo": "https://sd.qunliao.info/fastdfs4/M00/05/7C/ChMf8F5UxKSAc4cJAACD7RfoDgk241.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "2001.png"
+  },
+  {
+    "team_id": "2003",
+    "team_name": "圣何塞地震",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UiAKuVkAAAYhIdKkEI841.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "2003.png"
+  },
+  {
+    "team_id": "2004",
+    "team_name": "华盛顿特区联",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UiAYcqoAAAgGa-QTo8305.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "2004.png"
+  },
+  {
+    "team_id": "2005",
+    "team_name": "科罗拉多急流",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UiANaJEAAAYIb2kvaQ727.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "2005.png"
+  },
+  {
+    "team_id": "2006",
+    "team_name": "新英格兰革命",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/C0/F1/rBXRn2mj24OANDNRAABoz-KcpwI720.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "2006.png"
+  },
+  {
+    "team_id": "2007",
+    "team_name": "哥伦布机员",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/53/rBUESWKwdleAJRzRAAAm9LX1D04747.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "2007.png"
+  },
+  {
+    "team_id": "2008",
+    "team_name": "美国",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UmAAa6sAAAQEZEKYAA997.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "2008.png"
+  },
+  {
+    "team_id": "2026",
+    "team_name": "乌拉圭",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2UyAFIQpAAAJFbiniWQ532.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "2026.png"
+  },
+  {
+    "team_id": "2027",
+    "team_name": "乌兹别克斯坦",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/B2/9B/rBXRDGn_AAiABoBOAAAMkGBJ8fQ234.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "2027.png"
+  },
+  {
+    "team_id": "203",
+    "team_name": "比利时",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2CKAJTG3AAAAypTh1A8948.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "203.png"
+  },
+  {
+    "team_id": "2040",
+    "team_name": "越南",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2U-ACKo5AAADlnvYmoE306.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "2040.png"
+  },
+  {
+    "team_id": "2061",
+    "team_name": "皇家奥维耶多",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/06/C3/rBUC6GUGl_aAYgCWAABKuL6Hbrg794.png",
+    "competition_id": "3",
+    "competition_name": "西甲",
+    "file_name": "2061.png"
+  },
+  {
+    "team_id": "2065",
+    "team_name": "克雷莫内塞",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2VKANY33AAATPX9a5zI946.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "2065.png"
+  },
+  {
+    "team_id": "21033",
+    "team_name": "泰国U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2T2AEHoVAAAA5MoIiDo797.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "21033.png"
+  },
+  {
+    "team_id": "2113",
+    "team_name": "赫根",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2ViAKOf5AAASYGPCS8w622.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "2113.png"
+  },
+  {
+    "team_id": "219",
+    "team_name": "波黑",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/B2/25/rBXRn2n-1cyATlgZAAAH0Sxz8ck704.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "219.png"
+  },
+  {
+    "team_id": "2258",
+    "team_name": "巴黎FC",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2V6ANPTcAAAaVpjKEtk310.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "2258.png"
+  },
+  {
+    "team_id": "22674",
+    "team_name": "长春大众卓越女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/06/C6/rBUESWQBjqyAa9CWAABGu6QKu2I231.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "22674.png"
+  },
+  {
+    "team_id": "22681",
+    "team_name": "北京城建女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/FE/1E/rBUC6Ge1YhSAOBFKAAGDPmkj_AM678.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "22681.png"
+  },
+  {
+    "team_id": "2332",
+    "team_name": "斯肯迪亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2WCAUqWZAAAT7fUkK3g582.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "2332.png"
+  },
+  {
+    "team_id": "2341",
+    "team_name": "莫斯塔尔日林斯基",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/81/ChOxM1xC2WGAEs8jAAAdNcc_elk238.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "2341.png"
+  },
+  {
+    "team_id": "23466",
+    "team_name": "武汉车谷江大女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/06/CC/rBUESWQBj6qAMtbkAAA_weBahWA586.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "23466.png"
+  },
+  {
+    "team_id": "23545",
+    "team_name": "上海盛丽女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/06/D8/rBUCgGQBkG2AEvzdAACS-vEr-i0320.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "23545.png"
+  },
+  {
+    "team_id": "23548",
+    "team_name": "江苏南京女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/06/D2/rBUCgGQBj3uAByaWAABD-Y6mMWg842.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "23548.png"
+  },
+  {
+    "team_id": "24691",
+    "team_name": "浙江杭州银行女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/06/D1/rBUCgGQBj1KAccglAAB8RuCI2mU801.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "24691.png"
+  },
+  {
+    "team_id": "24700",
+    "team_name": "四川女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/06/D5/rBUESWQBkTmACzjiAABae2yzD-g107.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "24700.png"
+  },
+  {
+    "team_id": "2514",
+    "team_name": "洛桑体育",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/16/38/rBXRDGj_JsmAcZRHAAAQapp2NJk936.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "2514.png"
+  },
+  {
+    "team_id": "2619",
+    "team_name": "琴斯托霍瓦",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/A6/BF/rBUBsmbMSKCAVfTDAABZijObsjE264.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "2619.png"
+  },
+  {
+    "team_id": "269",
+    "team_name": "巴西",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/73/ChOxM1xC2DCAM4slAAAMODYb5Wo093.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "269.png"
+  },
+  {
+    "team_id": "2720",
+    "team_name": "柔佛新山",
+    "team_logo": "https://img1.qunliao.info/fastdfs3/M00/BA/46/ChOxM1xIkmGATDcGAABZCNnRuDk569.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "2720.png"
+  },
+  {
+    "team_id": "2726",
+    "team_name": "雪兰莪",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/82/ChOxM1xC2YGARBJ8AAAiSqDz39A124.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "2726.png"
+  },
+  {
+    "team_id": "2782",
+    "team_name": "莫亨巴根",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/07/C3/rBUC6GUKZ1GAX1SJAACDJPlPjco659.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "2782.png"
+  },
+  {
+    "team_id": "2884",
+    "team_name": "多哈国民",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/82/ChOxM1xC2Y6AJ_IEAABE_R3rjHc619.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "2884.png"
+  },
+  {
+    "team_id": "2886",
+    "team_name": "加拉法体育",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/82/ChOxM1xC2Y-AfQ7JAAAelcbYEy0589.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "2886.png"
+  },
+  {
+    "team_id": "2891",
+    "team_name": "萨德",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/3F/15/rB8BO19a13OABmstAABaPs5MsBg968.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "2891.png"
+  },
+  {
+    "team_id": "2894",
+    "team_name": "吉达国民",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/63/2E/rBUC6Gh0xeaAZ5LSAABWQ5jk4VQ230.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "2894.png"
+  },
+  {
+    "team_id": "2896",
+    "team_name": "利雅得新月",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/3F/07/rBUCgGMErICAcCrEAAALVxUB2iM061.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "2896.png"
+  },
+  {
+    "team_id": "2897",
+    "team_name": "达曼协作",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/83/ChOxM1xC2ZGAJ5_fAACPRIW4yfw049.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "2897.png"
+  },
+  {
+    "team_id": "2898",
+    "team_name": "吉达联合",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/83/ChOxM1xC2ZGACWTyAAAfzoLgZ-A912.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "2898.png"
+  },
+  {
+    "team_id": "2899",
+    "team_name": "利雅得胜利",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/9E/E4/rBUC6GgulMiAbboMAACESAj7S7A021.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "2899.png"
+  },
+  {
+    "team_id": "2900",
+    "team_name": "胡拜尔库迪西亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/A8/C2/rBUC6GbG4R6AOmSkAAAJ93FFgkk381.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "2900.png"
+  },
+  {
+    "team_id": "2901",
+    "team_name": "利雅得青年",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/A1/19/rBUESWKDd-mAKvOWAACGyP_irHQ738.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "2901.png"
+  },
+  {
+    "team_id": "2904",
+    "team_name": "利雅得体育",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/C6/78/rBXRn2oHA82AILHkAABUiENyDko400.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "2904.png"
+  },
+  {
+    "team_id": "2941",
+    "team_name": "安曼团结",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/FE/91/rBUC6Ge2gZeAJLY-AABB4d7pT34054.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "2941.png"
+  },
+  {
+    "team_id": "2965",
+    "team_name": "穆哈拉格",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/9A/15/ChOxM1wTveuAXqIyAABoc30ij6k704.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "2965.png"
+  },
+  {
+    "team_id": "303",
+    "team_name": "加拿大",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/73/ChOxM1xC2DSAay2bAAAF1Vkv5Qg286.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "303.png"
+  },
+  {
+    "team_id": "304",
+    "team_name": "佛得角",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/73/ChOxM1xC2DSAf9W9AAAGgOp7u4w404.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "304.png"
+  },
+  {
+    "team_id": "3120",
+    "team_name": "达拉斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/83/ChOxM1xC2ZyAd2fyAAAZHsloHU0903.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "3120.png"
+  },
+  {
+    "team_id": "3122",
+    "team_name": "皇家盐湖城",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/83/ChOxM1xC2ZyAFf6EAAATIvbev6A175.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "3122.png"
+  },
+  {
+    "team_id": "3124",
+    "team_name": "迪拜青年国民",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/83/ChOxM1xC2Z2AQ3qmAAC7vm3Kuwo077.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "3124.png"
+  },
+  {
+    "team_id": "3126",
+    "team_name": "巴格达警察",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/83/ChOxM1xC2Z2AXGpIAAAvAvt7TZI108.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "3126.png"
+  },
+  {
+    "team_id": "3127",
+    "team_name": "祖拉",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/9A/32/ChOxM1wT-VOASsLhAACEBqvq8WU429.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "3127.png"
+  },
+  {
+    "team_id": "32576",
+    "team_name": "大连龙卷风",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/27/A6/rBXRn2nKF4uAClFHAABehXiVHgY432.png",
+    "competition_id": "4067",
+    "competition_name": "中冠",
+    "file_name": "32576.png"
+  },
+  {
+    "team_id": "328",
+    "team_name": "青岛海牛",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/7B/83/rBUESWILWFqAcqM9AABsTvIPlX8444.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "328.png"
+  },
+  {
+    "team_id": "330",
+    "team_name": "北京国安",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BB/rBUESWHUILmAZO2QAABrjKx8wJM240.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "330.png"
+  },
+  {
+    "team_id": "332",
+    "team_name": "天津津门虎",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/06/08/rBUCgGB2x6eAewcfAACQzgjTP-w378.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "332.png"
+  },
+  {
+    "team_id": "334",
+    "team_name": "上海申花",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "334.png"
+  },
+  {
+    "team_id": "335",
+    "team_name": "山东泰山",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "335.png"
+  },
+  {
+    "team_id": "337",
+    "team_name": "长春亚泰",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTjCAXnwFAABoJI5zAdM049.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "337.png"
+  },
+  {
+    "team_id": "339",
+    "team_name": "河南",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/16/D1/rBUESWQwC4aALFAMAAB8iqXx5Xk222.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "339.png"
+  },
+  {
+    "team_id": "341",
+    "team_name": "浙江",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/FC/rBUESWJ-B_6AXUMjAABt3LDOeiI229.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "341.png"
+  },
+  {
+    "team_id": "344",
+    "team_name": "中国",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DyASaamAAAEq1PV5Sc240.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "344.png"
+  },
+  {
+    "team_id": "364",
+    "team_name": "哥伦比亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EGAaUoxAAABWBGyGJo937.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "364.png"
+  },
+  {
+    "team_id": "366",
+    "team_name": "刚果民主共和国",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EGACTivAAAFzVDGsuI699.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "366.png"
+  },
+  {
+    "team_id": "370",
+    "team_name": "萨格勒布迪纳摩",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EKAJTLGAAAM8JToH7Y003.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "370.png"
+  },
+  {
+    "team_id": "371",
+    "team_name": "里耶卡",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EKAKWZ0AAATmELBZJE308.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "371.png"
+  },
+  {
+    "team_id": "39184",
+    "team_name": "山东体彩女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/06/D5/rBUCgGQBkBKAaAafAAA483_gqP8181.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "39184.png"
+  },
+  {
+    "team_id": "396",
+    "team_name": "克罗地亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EOAbUHIAAAOg6JpgzM729.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "396.png"
+  },
+  {
+    "team_id": "399",
+    "team_name": "尼科西亚团结",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/75/EF/rBUESWMMMF2AEleJAABct1JHEBw159.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "399.png"
+  },
+  {
+    "team_id": "406",
+    "team_name": "AEK拉纳卡",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EWAYb6QAAARCPCSpXk012.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "406.png"
+  },
+  {
+    "team_id": "4130",
+    "team_name": "日视东京绿茵美人女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs4/M00/FA/4D/ChMf8F4ViQeAIX-MAABNRZMemwY276.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "4130.png"
+  },
+  {
+    "team_id": "414",
+    "team_name": "布拉格斯巴达",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/1A/1E/rBUCgGDAHLyAFBr9AAA5qpSRXhI987.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "414.png"
+  },
+  {
+    "team_id": "415",
+    "team_name": "布拉格斯拉维亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/BC/A9/rBUESWLUtziAc-ZGAAAN3NuWfCA428.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "415.png"
+  },
+  {
+    "team_id": "4157",
+    "team_name": "沙迦",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/BB/0B/rBUCgGMVXQWAYHv6AABW29A4ux4010.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "4157.png"
+  },
+  {
+    "team_id": "4158",
+    "team_name": "迪拜祈祷",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/F1/4B/rBUC6GeSAd6AYkifAAB_n6dGM1Y419.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "4158.png"
+  },
+  {
+    "team_id": "4159",
+    "team_name": "阿布扎比统一",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/56/D3/rBUBsmicKaWAB6eFAAAhZ-FxmVM744.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "4159.png"
+  },
+  {
+    "team_id": "416",
+    "team_name": "奥洛莫茨",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/1D/6E/rB8CCl7YeOSAINaVAACB34-LSPg932.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "416.png"
+  },
+  {
+    "team_id": "4255",
+    "team_name": "哈森姆",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/3D/6C/rBUCgGEvPhyAeVHxAAAzpCfHapI443.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "4255.png"
+  },
+  {
+    "team_id": "427",
+    "team_name": "比尔森胜利",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EiANdDkAAAaqXqKmWQ216.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "427.png"
+  },
+  {
+    "team_id": "4293",
+    "team_name": "萨索洛",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/85/ChOxM1xC2fiAC9EEAAAYEZ0FJFQ262.png",
+    "competition_id": "9",
+    "competition_name": "意甲",
+    "file_name": "4293.png"
+  },
+  {
+    "team_id": "4327",
+    "team_name": "澳大利亚U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2BGALh9vAAAQzrycW40209.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "4327.png"
+  },
+  {
+    "team_id": "4328",
+    "team_name": "巴西U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/73/ChOxM1xC2DCAM4slAAAMODYb5Wo093.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "4328.png"
+  },
+  {
+    "team_id": "4330",
+    "team_name": "哥斯达黎加U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EKAaFLCAAAGgA8WOkI815.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "4330.png"
+  },
+  {
+    "team_id": "4331",
+    "team_name": "科特迪瓦U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EuAJyTAAAAAugs6_Cg267.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "4331.png"
+  },
+  {
+    "team_id": "4334",
+    "team_name": "意大利U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LeASiR_AAABM1z3kEY093.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "4334.png"
+  },
+  {
+    "team_id": "4335",
+    "team_name": "朝鲜U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2MCAdQv0AAAPDjbzE80360.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "4335.png"
+  },
+  {
+    "team_id": "4336",
+    "team_name": "墨西哥U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2NOAIENZAAAIVenmXhE159.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "4336.png"
+  },
+  {
+    "team_id": "4339",
+    "team_name": "卡塔尔U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/23/44/rBUCgGNYoSGAKiiUAAATPmO8oGA233.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "4339.png"
+  },
+  {
+    "team_id": "4341",
+    "team_name": "美国U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UmAAa6sAAAQEZEKYAA997.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "4341.png"
+  },
+  {
+    "team_id": "4342",
+    "team_name": "乌拉圭U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2UyAFIQpAAAJFbiniWQ532.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "4342.png"
+  },
+  {
+    "team_id": "4404",
+    "team_name": "海登海姆",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/86/ChOxM1xC2gOACpMaAAATfJGS6Oo517.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "4404.png"
+  },
+  {
+    "team_id": "453",
+    "team_name": "捷克",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EuAYSDaAAACk9Rvueg747.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "453.png"
+  },
+  {
+    "team_id": "454",
+    "team_name": "科特迪瓦",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EuAJyTAAAAAugs6_Cg267.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "454.png"
+  },
+  {
+    "team_id": "456",
+    "team_name": "哥本哈根",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EuAMv7-AAATwbi9BhU591.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "456.png"
+  },
+  {
+    "team_id": "459",
+    "team_name": "中日德兰",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EyAKyqgAAAT089HehI596.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "459.png"
+  },
+  {
+    "team_id": "4605",
+    "team_name": "武里南联",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/FA/9F/rBUBsme3BZ-AFWXQAABqwA9iy1Q542.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "4605.png"
+  },
+  {
+    "team_id": "4742",
+    "team_name": "南定绿钢",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/93/B0/rBUBsmaWM4WAcofnAACQ7jpGdFg889.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "4742.png"
+  },
+  {
+    "team_id": "4746",
+    "team_name": "休斯敦迪纳摩",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/00/AE/rBUCgGBdguCAaIl5AABiBTlo0bw651.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "4746.png"
+  },
+  {
+    "team_id": "4790",
+    "team_name": "纽约红牛",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/86/ChOxM1xC2hqAHUQNAAAZoPnxa8U215.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "4790.png"
+  },
+  {
+    "team_id": "49662",
+    "team_name": "亚特兰大联",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/93/ChOxM1xC3MCAR6DiAAAposSDx787266429",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "49662.png"
+  },
+  {
+    "team_id": "49666",
+    "team_name": "湖北青年星",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/7E/6A/rBXRDGmMLyOAfZB4AAA68q244xg219.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "49666.png"
+  },
+  {
+    "team_id": "510",
+    "team_name": "厄瓜多尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FSADy_DAAALaURezqo279.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "510.png"
+  },
+  {
+    "team_id": "511",
+    "team_name": "埃及",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FSAG-vgAAAEuBDOMI0727.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "511.png"
+  },
+  {
+    "team_id": "513",
+    "team_name": "阿森纳",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/04/C8/rB8BO15q_yaAdgetAABZZa53gBI322.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "513.png"
+  },
+  {
+    "team_id": "514",
+    "team_name": "切尔西",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/00/32/rBUESWRTVgqAY8SzAABjoeJOK_U672.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "514.png"
+  },
+  {
+    "team_id": "51482",
+    "team_name": "印度U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2J2APzLYAAAFNtkA6fs883.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "51482.png"
+  },
+  {
+    "team_id": "515",
+    "team_name": "曼联",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FWAK5dCAAAmr0XTTPA012.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "515.png"
+  },
+  {
+    "team_id": "516",
+    "team_name": "利物浦",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/DF/8B/rBUBsmdpGWWAfTZRAAAfpfKIpW0737.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "516.png"
+  },
+  {
+    "team_id": "517",
+    "team_name": "纽卡斯尔联",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FaAMW6MAAClXpYT970632.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "517.png"
+  },
+  {
+    "team_id": "5176",
+    "team_name": "赛哈特海湾",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/3F/0F/rBUESWMErPWALurgAABnsPNJq9o471.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "5176.png"
+  },
+  {
+    "team_id": "518",
+    "team_name": "阿斯顿维拉",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/84/0B/rBUC6GZoQCaAJtfTAABZ2KBjfmw793.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "518.png"
+  },
+  {
+    "team_id": "520",
+    "team_name": "富勒姆",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FaAcXVSAAAOf5foS90086.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "520.png"
+  },
+  {
+    "team_id": "527",
+    "team_name": "埃弗顿",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FiAE2QgAAAo82a8bfc642.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "527.png"
+  },
+  {
+    "team_id": "528",
+    "team_name": "托特纳姆热刺",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/DE/00/rBUBsmdk5HSASF5OAAAhdXLFcKU488.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "528.png"
+  },
+  {
+    "team_id": "529",
+    "team_name": "曼城",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FiABKB2AADAlIaOOOU133.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "529.png"
+  },
+  {
+    "team_id": "5318",
+    "team_name": "大埔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/88/ChOxM1xC2kKALI3SAACdU0D_VF4891.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "5318.png"
+  },
+  {
+    "team_id": "532",
+    "team_name": "水晶宫",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/17/rBUESWKv3h6AI_JaAABtOvVNsAg600.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "532.png"
+  },
+  {
+    "team_id": "533",
+    "team_name": "狼队",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FmAEuD6AAAL5IiMHxM514.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "533.png"
+  },
+  {
+    "team_id": "534",
+    "team_name": "利兹联",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FmAVrSiAAAVcFNO-b4080.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "534.png"
+  },
+  {
+    "team_id": "536",
+    "team_name": "桑德兰",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/C4/BA/rBXRn2mlMt-AF7I-AABowuVn-Fk188.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "536.png"
+  },
+  {
+    "team_id": "537",
+    "team_name": "西汉姆联",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FqAJLyyAAAdB5ZXA9k126.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "537.png"
+  },
+  {
+    "team_id": "53841",
+    "team_name": "洛杉矶",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/53/rBUESWKwdaeAStCqAAA1PvxNx64605.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "53841.png"
+  },
+  {
+    "team_id": "53965",
+    "team_name": "深圳新鹏城",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/44/FE/rBUC6GXMkeyASCkzAABoH7KLM-4511.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "53965.png"
+  },
+  {
+    "team_id": "54041",
+    "team_name": "待定",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/20/64/rBUCgGDS_LeACPE7AAAdUDjhwco543.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "54041.png"
+  },
+  {
+    "team_id": "5437",
+    "team_name": "纳萨夫",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/27/B5/rBUBsmWKmn6AT8mmAACPStUPmYM229.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "5437.png"
+  },
+  {
+    "team_id": "5442",
+    "team_name": "安集延",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/63/9D/rBUESWQP5-eAc8RwAABfyfldR-k246.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "5442.png"
+  },
+  {
+    "team_id": "547",
+    "team_name": "诺丁汉森林",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/A8/4F/rBUESWKVj5qAOY91AAAW8_OGaQU005.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "547.png"
+  },
+  {
+    "team_id": "55034",
+    "team_name": "伊尔比德侯赛因",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/7D/86/rBUC6Gh5uI-AbEIpAACMqw3oSk4435.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "55034.png"
+  },
+  {
+    "team_id": "551",
+    "team_name": "伯恩利",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/9F/63/rBUCgGSKyZyAYNLCAABQNphmViY926.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "551.png"
+  },
+  {
+    "team_id": "556",
+    "team_name": "布莱顿",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2F6ACzweAAATm2O1vDk447.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "556.png"
+  },
+  {
+    "team_id": "5568",
+    "team_name": "林肯红魔",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/88/ChOxM1xC2lqAWYRCAACWKHvmby4312.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "5568.png"
+  },
+  {
+    "team_id": "5605",
+    "team_name": "多伦多",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/88/ChOxM1xC2lyAdol5AAAhWaZTCUM797.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "5605.png"
+  },
+  {
+    "team_id": "564",
+    "team_name": "伯恩茅斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2GCAICUsAAAXDarEdXQ844.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "564.png"
+  },
+  {
+    "team_id": "5671",
+    "team_name": "曼谷联",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/88/ChOxM1xC2mOAY7jBAABIi6H5tXo936.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "5671.png"
+  },
+  {
+    "team_id": "575",
+    "team_name": "布伦特福德",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2GOAApRZAAAqGXrBLao447.png",
+    "competition_id": "4",
+    "competition_name": "英超",
+    "file_name": "575.png"
+  },
+  {
+    "team_id": "5821",
+    "team_name": "北京理工",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/89/ChOxM1xC2m6AKL-HAAArPGPJkV4149.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "5821.png"
+  },
+  {
+    "team_id": "58408",
+    "team_name": "达马克",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/BA/F5/rBUCgGMVWdWAfXn9AACyYHbcfO8201.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "58408.png"
+  },
+  {
+    "team_id": "5934",
+    "team_name": "大不里士拖拉机",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/9A/47/rBUBsmapnCWAU5DeAAErup6jt00209.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "5934.png"
+  },
+  {
+    "team_id": "59926",
+    "team_name": "阿科多",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/A8/C3/rBUC6GbG4iOAEab_AAAOsnegqdM113.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "59926.png"
+  },
+  {
+    "team_id": "59927",
+    "team_name": "纳杰马",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/CA/C8/rBUCgGTQUVeAXu32AAA6yGCuTRw844.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "59927.png"
+  },
+  {
+    "team_id": "627",
+    "team_name": "英格兰",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/76/ChOxM1xC2G2Acp31AAABNMvdP0U855.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "627.png"
+  },
+  {
+    "team_id": "62985",
+    "team_name": "陕西志丹女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/06/D4/rBUESWQBkPSAH4FOAACefC_P6Nw693.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "62985.png"
+  },
+  {
+    "team_id": "6354",
+    "team_name": "哈萨征服",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/52/9A/rBUBsmlSHVmAXnzrAAAP-ZEFQ88998.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "6354.png"
+  },
+  {
+    "team_id": "6386",
+    "team_name": "哥伦比亚U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EGAaUoxAAABWBGyGJo937.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "6386.png"
+  },
+  {
+    "team_id": "6389",
+    "team_name": "比利时U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2CKAJTG3AAAAypTh1A8948.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "6389.png"
+  },
+  {
+    "team_id": "6391",
+    "team_name": "韩国U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MSAQaWAAAAL1VFSq5U098.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "6391.png"
+  },
+  {
+    "team_id": "6393",
+    "team_name": "新西兰U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2N-Aa55oAAAKHk0Xucs443.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "6393.png"
+  },
+  {
+    "team_id": "6395",
+    "team_name": "阿根廷U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2A-AI_uOAAAHB-5pMAU501.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "6395.png"
+  },
+  {
+    "team_id": "6397",
+    "team_name": "塔吉克斯坦U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2T2AQEEOAAADhe1936s504.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "6397.png"
+  },
+  {
+    "team_id": "6398",
+    "team_name": "海地U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2JeASopzAAAGuTgfj7A505.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "6398.png"
+  },
+  {
+    "team_id": "6399",
+    "team_name": "法国U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2IKANG6tAAABFW9OqCQ523.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "6399.png"
+  },
+  {
+    "team_id": "6400",
+    "team_name": "西班牙U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7E/ChOxM1xC2TCAWMemAAAJsy8Pgbg246.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "6400.png"
+  },
+  {
+    "team_id": "6401",
+    "team_name": "洪都拉斯U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2JeAI8cTAAAN4zeRF6s865.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "6401.png"
+  },
+  {
+    "team_id": "6403",
+    "team_name": "日本U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2L6AHvC4AAAEdawnP9Q689.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "6403.png"
+  },
+  {
+    "team_id": "64081",
+    "team_name": "坦桑尼亚U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2T2ARbtiAAAD7U-K-yY937.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "64081.png"
+  },
+  {
+    "team_id": "6543",
+    "team_name": "东方",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8A/ChOxM1xC2pOAKqJqAAAhFr3mYDU491.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "6543.png"
+  },
+  {
+    "team_id": "667",
+    "team_name": "古比斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/76/ChOxM1xC2HOAFMiaAAATZbAZ-kw128.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "667.png"
+  },
+  {
+    "team_id": "67",
+    "team_name": "阿根廷",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2A-AI_uOAAAHB-5pMAU501.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "67.png"
+  },
+  {
+    "team_id": "6848",
+    "team_name": "布赖代合作",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/78/8D/rBUESWIB6kmAJmwKAACGmJTTJCA198.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "6848.png"
+  },
+  {
+    "team_id": "6849",
+    "team_name": "费哈",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/63/91/rBUCgGQP46KAeKEIAACH3iirzKk541.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "6849.png"
+  },
+  {
+    "team_id": "7190",
+    "team_name": "上海海港",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/6A/80/rB8BO2AbmgCAYbglAABlcqHyDWc494.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "7190.png"
+  },
+  {
+    "team_id": "72763",
+    "team_name": "诺亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/D9/D3/rBUC6GdNQL-AInP5AAAXMkWdkNc870.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "72763.png"
+  },
+  {
+    "team_id": "729",
+    "team_name": "里昂",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/F7/11/rBUCgGLg74WAahxOAABJF8W7Zj8613.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "729.png"
+  },
+  {
+    "team_id": "72942",
+    "team_name": "拉斯永恒",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/D3/43/rBUBsmjI15-AQw9NAAB1_OMLUa4483.png",
+    "competition_id": "197",
+    "competition_name": "沙特联",
+    "file_name": "72942.png"
+  },
+  {
+    "team_id": "730",
+    "team_name": "摩纳哥",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/76/ChOxM1xC2HaARhCzAAAXoMYU3-s236.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "730.png"
+  },
+  {
+    "team_id": "731",
+    "team_name": "巴黎圣日耳曼",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/EE/27/rBUC6GeJrp2Aet6WAABoWsPl_bc418.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "731.png"
+  },
+  {
+    "team_id": "733",
+    "team_name": "欧塞尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/81/B6/rBUESWIh3_uAQ5YuAABWASfCBSY878.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "733.png"
+  },
+  {
+    "team_id": "734",
+    "team_name": "南特",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/81/B5/rBUESWIh3SiATFW3AAAkWqsPT4M564.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "734.png"
+  },
+  {
+    "team_id": "735",
+    "team_name": "马赛",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/63/9D/rBXRn2ngo1WAJvEDAABVO3bDKp0984.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "735.png"
+  },
+  {
+    "team_id": "737",
+    "team_name": "朗斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/76/ChOxM1xC2HiAMQnoAAAUqwD9hrc766.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "737.png"
+  },
+  {
+    "team_id": "738",
+    "team_name": "雷恩",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/76/ChOxM1xC2HiAEp4eAAAWIzu7tFs976.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "738.png"
+  },
+  {
+    "team_id": "739",
+    "team_name": "尼斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/76/ChOxM1xC2HiAfuX0AAAjTMORxEw581.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "739.png"
+  },
+  {
+    "team_id": "740",
+    "team_name": "里尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/3A/1F/rBUCgGEm8LGARd2JAAA9mVt3eWA063.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "740.png"
+  },
+  {
+    "team_id": "741",
+    "team_name": "梅斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/33/4D/rBUCgGESO0eAMWN2AAAMZQ1vf7A601.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "741.png"
+  },
+  {
+    "team_id": "743",
+    "team_name": "斯特拉斯堡",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/76/ChOxM1xC2HmAGHosAAAfYwRilRg327.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "743.png"
+  },
+  {
+    "team_id": "744",
+    "team_name": "图卢兹",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/40/E4/rBUBsmgKE5iAVexcAABgTjVJ3aQ466.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "744.png"
+  },
+  {
+    "team_id": "752",
+    "team_name": "洛里昂",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/76/ChOxM1xC2HuAWsaCAAAXalthfQc160.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "752.png"
+  },
+  {
+    "team_id": "757",
+    "team_name": "勒阿弗尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/06/A7/rBUC6Gim_IiAM03oAABfv4LyhQc117.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "757.png"
+  },
+  {
+    "team_id": "763",
+    "team_name": "昂热",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/15/98/rBUCgGCwSX6AZ4MyAAAyKpvhPz0145.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "763.png"
+  },
+  {
+    "team_id": "767",
+    "team_name": "布雷斯特",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2H6AT_7xAAAaMGc69Ho807.png",
+    "competition_id": "12",
+    "competition_name": "法甲",
+    "file_name": "767.png"
+  },
+  {
+    "team_id": "76899",
+    "team_name": "成都蓉城",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/AB/8E/rBUCgGKew4CAUOkOAAA9_zjGZT8195.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "76899.png"
+  },
+  {
+    "team_id": "76980",
+    "team_name": "麦克阿瑟FC",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/60/B7/rB8CCl_pOFqAdBv2AAAxxOzYi4I415.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "76980.png"
+  },
+  {
+    "team_id": "77155",
+    "team_name": "纳什维尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/37/rBUCgGKwKa6AduQ9AAAbJblqBGU178.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "77155.png"
+  },
+  {
+    "team_id": "77657",
+    "team_name": "青岛红狮",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/35/2D/rBUBsmW3Z3-ADtdRAABOseeboik514.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "77657.png"
+  },
+  {
+    "team_id": "77677",
+    "team_name": "武汉三镇",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTu2AJbV0AABgSzGBSuk267.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "77677.png"
+  },
+  {
+    "team_id": "789",
+    "team_name": "法国",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2IKANG6tAAABFW9OqCQ523.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "789.png"
+  },
+  {
+    "team_id": "79397",
+    "team_name": "广东广州数科女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/05/54/rBUC6GfH7d2ALvLkAACYhYZvRG0075.png",
+    "competition_id": "1507",
+    "competition_name": "中女超",
+    "file_name": "79397.png"
+  },
+  {
+    "team_id": "79983",
+    "team_name": "迈阿密国际",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/58/rBUCgGKwdIKAT3uqAABcpCubwTo161.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "79983.png"
+  },
+  {
+    "team_id": "803",
+    "team_name": "云达不莱梅",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2ISAeFsEAAAKfe0Rq3c077.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "803.png"
+  },
+  {
+    "team_id": "804",
+    "team_name": "拜仁慕尼黑",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/BD/E4/rBUBsmcQfhaAYw-EAACQ93M4aCY929.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "804.png"
+  },
+  {
+    "team_id": "805",
+    "team_name": "斯图加特",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2ISAXLMXAAAgO3_bM9U572.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "805.png"
+  },
+  {
+    "team_id": "806",
+    "team_name": "勒沃库森",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2IWAJfMaAAAhNr3eAJA825.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "806.png"
+  },
+  {
+    "team_id": "807",
+    "team_name": "多特蒙德",
+    "team_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/C3/ChNLklyIbbyAd2OAAAA9VunZIoA551.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "807.png"
+  },
+  {
+    "team_id": "810",
+    "team_name": "汉堡",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2IWAeM_dAAADCpGzfFg258.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "810.png"
+  },
+  {
+    "team_id": "811",
+    "team_name": "沃尔夫斯堡",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/C5/C7/rBXRDGoGt4iAU_O1AAA2FkjZfRo530.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "811.png"
+  },
+  {
+    "team_id": "81182",
+    "team_name": "待定",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/20/64/rBUCgGDS_LeACPE7AAAdUDjhwco543.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "81182.png"
+  },
+  {
+    "team_id": "813",
+    "team_name": "弗赖堡",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2IaAIrI1AAARKEkD6gA044.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "813.png"
+  },
+  {
+    "team_id": "814",
+    "team_name": "门兴格拉德巴赫",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2IaAYHvaAAAIbJ4cssA140.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "814.png"
+  },
+  {
+    "team_id": "8172",
+    "team_name": "卢多戈雷茨",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/79/82/rBUCgGMMmJiAWwpHAABsMf-b06w395.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "8172.png"
+  },
+  {
+    "team_id": "820",
+    "team_name": "美因茨",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/11/DE/rB8BO16X90OAUckUAABbsU_NqV4424.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "820.png"
+  },
+  {
+    "team_id": "822",
+    "team_name": "法兰克福",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2IiAa_BMAAATnLelskI639.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "822.png"
+  },
+  {
+    "team_id": "823",
+    "team_name": "科隆",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2ImAGIL9AAAabZoFMTs033.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "823.png"
+  },
+  {
+    "team_id": "8351",
+    "team_name": "杜海勒",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tCAXV2tAACkIBISYzM234.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "8351.png"
+  },
+  {
+    "team_id": "8356",
+    "team_name": "江原",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tGAO9TNAAAYYF4Spf4043.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "8356.png"
+  },
+  {
+    "team_id": "83574",
+    "team_name": "洛杉矶湖人",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/49/24/rB8CCl-Dz4GAWKDJAABkgB7cHCw435.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83574.png"
+  },
+  {
+    "team_id": "83575",
+    "team_name": "波士顿凯尔特人",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/19/rB8CCl9GNQiAM_6MAABHhpYThiM609.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83575.png"
+  },
+  {
+    "team_id": "83576",
+    "team_name": "迈阿密热火",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/1A/rB8CCl9GNbOAfziMAAA-Utdr8dQ123.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83576.png"
+  },
+  {
+    "team_id": "83577",
+    "team_name": "布鲁克林篮网",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/19/rB8CCl9GNSGALhFvAAAibe8E7yM659.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83577.png"
+  },
+  {
+    "team_id": "83578",
+    "team_name": "纽约尼克斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/19/rB8CCl9GNXyAXsiwAABX3Onk2PI629.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83578.png"
+  },
+  {
+    "team_id": "83579",
+    "team_name": "奥兰多魔术",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/14/rB8BO19GNWyALzuKAABLUv_4GN8536.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83579.png"
+  },
+  {
+    "team_id": "83580",
+    "team_name": "费城76人",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/49/1A/rB8BO1-DzziAI-38AABpsuI5UXo963.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83580.png"
+  },
+  {
+    "team_id": "83581",
+    "team_name": "华盛顿奇才",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/15/rB8BO19GNY6AfU4QAABBxPeVgPg517.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83581.png"
+  },
+  {
+    "team_id": "83582",
+    "team_name": "底特律活塞",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/14/rB8BO19GNLeACX1XAAB1gfq4uws761.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83582.png"
+  },
+  {
+    "team_id": "83583",
+    "team_name": "印第安纳步行者",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/14/rB8BO19GNFGAGrHQAABBEiKybOE277.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83583.png"
+  },
+  {
+    "team_id": "83584",
+    "team_name": "新奥尔良鹈鹕",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/1A/rB8CCl9GNgOAfJHtAABoKWvxbfk974.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83584.png"
+  },
+  {
+    "team_id": "83585",
+    "team_name": "密尔沃基雄鹿",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/15/rB8BO19GNi2ANnzuAABB92cW83g610.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83585.png"
+  },
+  {
+    "team_id": "83586",
+    "team_name": "亚特兰大老鹰",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/14/rB8BO19GNTGANc-WAABLvHo7bkw391.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83586.png"
+  },
+  {
+    "team_id": "83587",
+    "team_name": "芝加哥公牛",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/19/rB8CCl9GNGCAUSzDAAA_Rp-dfgI247.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83587.png"
+  },
+  {
+    "team_id": "83588",
+    "team_name": "多伦多猛龙",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/14/rB8BO19GNVqAOKEhAABR0kQhOAU465.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83588.png"
+  },
+  {
+    "team_id": "83589",
+    "team_name": "克利夫兰骑士",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/15/rB8BO19GNaSANXjOAABBMcqf0ac626.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83589.png"
+  },
+  {
+    "team_id": "83590",
+    "team_name": "达拉斯独行侠",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/15/rB8BO19GNiCAJZmhAAA4URIXbeM703.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83590.png"
+  },
+  {
+    "team_id": "83591",
+    "team_name": "圣安东尼奥马刺",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/14/rB8BO19GNUuAAPaiAAAhborqwBI634.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83591.png"
+  },
+  {
+    "team_id": "83592",
+    "team_name": "明尼苏达森林狼",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/15/rB8BO19GNcmAHZ_iAABa_CBJrnc240.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83592.png"
+  },
+  {
+    "team_id": "83593",
+    "team_name": "犹他爵士",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/14/rB8BO19GNPqAOB9QAABaeNXbKIc809.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83593.png"
+  },
+  {
+    "team_id": "83594",
+    "team_name": "休斯顿火箭",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/88/4E/rBUCgGNqIp2ASCaBAABEu-Ty66Y308.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83594.png"
+  },
+  {
+    "team_id": "83595",
+    "team_name": "孟菲斯灰熊",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/14/rB8BO19GNJeALrqBAABCbWHG_Vg020.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83595.png"
+  },
+  {
+    "team_id": "83596",
+    "team_name": "丹佛掘金",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/19/rB8CCl9GNOmAR5TeAABGs4vuYOI884.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83596.png"
+  },
+  {
+    "team_id": "83597",
+    "team_name": "萨克拉门托国王",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/14/rB8BO19GNHOAF-XRAAA3fur5Ohs912.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83597.png"
+  },
+  {
+    "team_id": "83598",
+    "team_name": "波特兰开拓者",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/1F/rB8CCl9GP42APPDSAAA1i7Psz_k317.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83598.png"
+  },
+  {
+    "team_id": "83599",
+    "team_name": "菲尼克斯太阳",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/15/rB8BO19GNfGASfuGAAA3xDNELrI009.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83599.png"
+  },
+  {
+    "team_id": "83600",
+    "team_name": "金州勇士",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/1A/rB8CCl9GNjuAUAFXAAAwzj-tO_g653.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83600.png"
+  },
+  {
+    "team_id": "83601",
+    "team_name": "俄克拉荷马雷霆",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/15/rB8BO19GNd2AJIr8AABON0SsXZI432.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83601.png"
+  },
+  {
+    "team_id": "83602",
+    "team_name": "洛杉矶快船",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/49/1B/rB8BO1-Dz-KAb-NoAABTa3XMwSw781.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83602.png"
+  },
+  {
+    "team_id": "83603",
+    "team_name": "夏洛特黄蜂",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/39/19/rB8CCl9GNIWAA8YMAABF-k-Rd80598.png",
+    "competition_id": "3010",
+    "competition_name": "NBA",
+    "file_name": "83603.png"
+  },
+  {
+    "team_id": "83627",
+    "team_name": "浙江稠州金租",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/20/1A/rB8CCl7orRuAZrvmAAB5t6FG9_c476.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83627.png"
+  },
+  {
+    "team_id": "83628",
+    "team_name": "山西汾酒",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/72/DD/rBUC6GgdiNuAS6UvAABwQMUL1Lo871.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83628.png"
+  },
+  {
+    "team_id": "83629",
+    "team_name": "深圳马可波罗",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/4F/7E/rBUCgGF2g4aAAK08AABMoMrPjjk650.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83629.png"
+  },
+  {
+    "team_id": "83630",
+    "team_name": "江苏肯帝亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/04/E4/rBUCgGO2cJeABUPCAABiZQRVeV4773.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83630.png"
+  },
+  {
+    "team_id": "83631",
+    "team_name": "上海久事",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/20/18/rB8BO17osiGAUT0rAACF6HGOc54736.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83631.png"
+  },
+  {
+    "team_id": "83633",
+    "team_name": "福建晋江文旅",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/49/24/rB8CCl-Dzg6AW0i-AABdKAL015I738.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83633.png"
+  },
+  {
+    "team_id": "83635",
+    "team_name": "广东东阳光",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/20/17/rB8BO17oqnmAKFA-AABdK0QTR4w638.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83635.png"
+  },
+  {
+    "team_id": "83636",
+    "team_name": "长白山恩都里",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/49/1A/rB8BO1-DzYiABnQIAACS_bZ0O4U042.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83636.png"
+  },
+  {
+    "team_id": "83638",
+    "team_name": "新疆伊力特",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/49/24/rB8CCl-Dzd-AYckDAABxl97Ip_g346.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83638.png"
+  },
+  {
+    "team_id": "83639",
+    "team_name": "北京北汽",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/C5/6A/rBUC6GcZ_TuAAE6AAABNi6DYV_s230.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83639.png"
+  },
+  {
+    "team_id": "83640",
+    "team_name": "山东高速",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/E4/94/rBUC6Gds5FCAWE31AAByvFUhHTg056.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83640.png"
+  },
+  {
+    "team_id": "83641",
+    "team_name": "辽宁本钢",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/49/1A/rB8BO1-DzUiAWKF0AABNPeKiB8Q688.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "83641.png"
+  },
+  {
+    "team_id": "8391",
+    "team_name": "西雅图海湾人",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/36/2E/rBUC6GWt0qyASKQvAABQce5TgTk506.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "8391.png"
+  },
+  {
+    "team_id": "8392",
+    "team_name": "奥兰多城",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tKAEMw-AAAmpf0klaw948.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "8392.png"
+  },
+  {
+    "team_id": "841",
+    "team_name": "奥格斯堡",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2IyAWK43AAASGMtwXs8984.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "841.png"
+  },
+  {
+    "team_id": "84151",
+    "team_name": "浙江浙商证券",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/49/1A/rB8BO1-DzP2AHIvUAABhwy7aJhw675.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "84151.png"
+  },
+  {
+    "team_id": "842",
+    "team_name": "霍芬海姆",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2I2AdhvTAAAVmAmdpRI507.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "842.png"
+  },
+  {
+    "team_id": "8420",
+    "team_name": "巴吞联",
+    "team_logo": "https://img1.qunliao.info/fastdfs3/M00/BF/AD/ChOxM1xRL9iANXc8AABAkP9Ldg8858.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "8420.png"
+  },
+  {
+    "team_id": "8448",
+    "team_name": "町田泽维亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2tWAbGf8AAAVOGAAM18696.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "8448.png"
+  },
+  {
+    "team_id": "8469",
+    "team_name": "水原女足",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/1E/3E/rB8CCl7do8yAG2m_AACCYDsNYtk924.png",
+    "competition_id": "937",
+    "competition_name": "女足亚冠",
+    "file_name": "8469.png"
+  },
+  {
+    "team_id": "85194",
+    "team_name": "青岛崂山啤酒",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/4F/7F/rBUCgGF2hluAQODaAABUe1uSM8c136.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "85194.png"
+  },
+  {
+    "team_id": "85313",
+    "team_name": "南京天之蓝",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/49/24/rB8CCl-DzryAX0cyAABJX06PNOE892.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "85313.png"
+  },
+  {
+    "team_id": "85323",
+    "team_name": "天津先行者",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/20/18/rB8BO17or9KAeL09AABoqyn8aak381.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "85323.png"
+  },
+  {
+    "team_id": "85438",
+    "team_name": "北京控股",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/20/18/rB8BO17osWaAH0n0AABp_uP7Cfk445.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "85438.png"
+  },
+  {
+    "team_id": "855",
+    "team_name": "圣保利",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2I-AfoHQAAAXfOUaqGk991.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "855.png"
+  },
+  {
+    "team_id": "8568",
+    "team_name": "RB莱比锡",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/42/6C/rBUESWFBX_KAOY8gAAA55rMy1X0686.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "8568.png"
+  },
+  {
+    "team_id": "85802",
+    "team_name": "四川丰谷酒业",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/20/1C/rB8CCl7otsmAFzN2AABcdKW5Y18096.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "85802.png"
+  },
+  {
+    "team_id": "860",
+    "team_name": "柏林联合",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2JCAcrxyAAAPxAyDwxo958.png",
+    "competition_id": "5",
+    "competition_name": "德甲",
+    "file_name": "860.png"
+  },
+  {
+    "team_id": "868",
+    "team_name": "德国",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2JGAd79VAAAAyGVvoVQ975.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "868.png"
+  },
+  {
+    "team_id": "869",
+    "team_name": "加纳",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2JGASs2QAAAEP6RcnSU543.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "869.png"
+  },
+  {
+    "team_id": "87",
+    "team_name": "澳大利亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2BGALh9vAAAQzrycW40209.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "87.png"
+  },
+  {
+    "team_id": "870",
+    "team_name": "帕纳辛奈科斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2JKAe4ndAAAamaibflk558.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "870.png"
+  },
+  {
+    "team_id": "871",
+    "team_name": "奥林匹亚科斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/91/64/rBUC6GaGG5qAIEh6AABgJ-l1JQs908.png",
+    "competition_id": "6",
+    "competition_name": "欧冠",
+    "file_name": "871.png"
+  },
+  {
+    "team_id": "872",
+    "team_name": "塞萨洛尼基",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2JKALpptAAAdFMPrPak810.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "872.png"
+  },
+  {
+    "team_id": "873",
+    "team_name": "雅典AEK",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/77/ChOxM1xC2JKAcUK0AAAQ1kJYigk196.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "873.png"
+  },
+  {
+    "team_id": "8825",
+    "team_name": "巴拿马U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7B/ChOxM1xC2OeAS3ajAAADqpnHFS0036.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "8825.png"
+  },
+  {
+    "team_id": "8830",
+    "team_name": "古巴U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EOACbMqAAAROOTk4do092.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "8830.png"
+  },
+  {
+    "team_id": "88349",
+    "team_name": "广州朗肽海本",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/4F/7D/rBUESWF2hOqAaWgSAABdBLEwXtg293.png",
+    "competition_id": "3027",
+    "competition_name": "CBA",
+    "file_name": "88349.png"
+  },
+  {
+    "team_id": "8841",
+    "team_name": "牙买加U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2LeAFr8yAAADoRzo2WM406.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "8841.png"
+  },
+  {
+    "team_id": "9083",
+    "team_name": "阿联酋U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7F/ChOxM1xC2UeADe-pAAABM6khVfc558.png",
+    "competition_id": "5312",
+    "competition_name": "U17亚洲杯",
+    "file_name": "9083.png"
+  },
+  {
+    "team_id": "9085",
+    "team_name": "阿尔及利亚U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/71/ChOxM1xC2ASAL31DAAAHtIt8DXA565.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9085.png"
+  },
+  {
+    "team_id": "91",
+    "team_name": "维也纳快速",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2BGAV_iHAAAXAaZwMg8465.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "91.png"
+  },
+  {
+    "team_id": "9140",
+    "team_name": "费城联合",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/51/6B/rBUBsmkv8paACB4YAABrJqp03sg776.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "9140.png"
+  },
+  {
+    "team_id": "916",
+    "team_name": "海地",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2JeASopzAAAGuTgfj7A505.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "916.png"
+  },
+  {
+    "team_id": "919",
+    "team_name": "费伦茨瓦罗斯",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/77/59/rBUCgGMMWK-AObRPAABZdnI_mxs464.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "919.png"
+  },
+  {
+    "team_id": "9243",
+    "team_name": "拉查武里",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/BB/1C/rBUESWMVXpmALlBnAABnnEtgSuM591.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "9243.png"
+  },
+  {
+    "team_id": "9249",
+    "team_name": "明尼苏达联",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/B1/53/rBUESWKwdVyAWRfGAABE9T5odQ8303.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "9249.png"
+  },
+  {
+    "team_id": "9323",
+    "team_name": "杜尚别独立",
+    "team_logo": "https://img1.qunliao.info/fastdfs3/M00/B7/EC/ChOxM1xEVeaABhinAAC6z9Z8dJI274.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "9323.png"
+  },
+  {
+    "team_id": "9342",
+    "team_name": "阿哈尔",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/36/C3/rBUC6GWveXCAHSGBAANK7kBMz7s742.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "9342.png"
+  },
+  {
+    "team_id": "93931",
+    "team_name": "南京城市",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/66/rBUESWJ8d1aAEDFIAABzd7dLaR4572.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "93931.png"
+  },
+  {
+    "team_id": "93933",
+    "team_name": "青岛西海岸",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/92/59/rBUCgGQXu_qAP-evAABy0dTN8HM061.png",
+    "competition_id": "43",
+    "competition_name": "中超",
+    "file_name": "93933.png"
+  },
+  {
+    "team_id": "9433",
+    "team_name": "墨尔本城",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8D/ChOxM1xC2xqAQIGvAAAd7aTyRms930.png",
+    "competition_id": "226",
+    "competition_name": "亚冠精英",
+    "file_name": "9433.png"
+  },
+  {
+    "team_id": "9447",
+    "team_name": "厄瓜多尔U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FSADy_DAAALaURezqo279.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9447.png"
+  },
+  {
+    "team_id": "9448",
+    "team_name": "智利U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/73/ChOxM1xC2DiAczBuAAADSRncl0Y205.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9448.png"
+  },
+  {
+    "team_id": "9449",
+    "team_name": "委内瑞拉U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/80/ChOxM1xC2U-AeyGIAAAEcEYRRbw864.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9449.png"
+  },
+  {
+    "team_id": "95",
+    "team_name": "格拉茨风暴",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/72/ChOxM1xC2BKAFNg7AAAcjRsZbQ0978.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "95.png"
+  },
+  {
+    "team_id": "954",
+    "team_name": "科帕沃于尔光明",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2J2AVIaBAABGiDEo8AA930.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "954.png"
+  },
+  {
+    "team_id": "9555",
+    "team_name": "塞尔维亚U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/87/ChOxM1xC2iSAWoJLAAANi61d2EA772.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9555.png"
+  },
+  {
+    "team_id": "9558",
+    "team_name": "罗马尼亚U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2QCAHI77AAAAtuVu0Q0545.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9558.png"
+  },
+  {
+    "team_id": "9561",
+    "team_name": "克罗地亚U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2EOAbUHIAAAOg6JpgzM729.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9561.png"
+  },
+  {
+    "team_id": "9562",
+    "team_name": "丹麦U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FGAU4XgAAABUo4hnUQ558.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9562.png"
+  },
+  {
+    "team_id": "9563",
+    "team_name": "黑山U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/87/ChOxM1xC2iSAVCbQAAAk3WwFDXw041.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9563.png"
+  },
+  {
+    "team_id": "9570",
+    "team_name": "爱尔兰U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2KWAaNE4AAAAtt1RVro484.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9570.png"
+  },
+  {
+    "team_id": "9580",
+    "team_name": "希腊U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2JWAH_xRAAACpdUOWCw533.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9580.png"
+  },
+  {
+    "team_id": "95955",
+    "team_name": "佛山南狮",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/33/E7/rBUC6GWnfBOAFCynAADH_8std-U160.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "95955.png"
+  },
+  {
+    "team_id": "95956",
+    "team_name": "温州",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/52/E5/rBUBsmleORmAaCk2AACjxj1oYKQ179.png",
+    "competition_id": "1535",
+    "competition_name": "中乙",
+    "file_name": "95956.png"
+  },
+  {
+    "team_id": "95959",
+    "team_name": "延边龙鼎",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/65/0E/rBXRn2mC3FKAcFUrAAGMayMkk4c322.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "95959.png"
+  },
+  {
+    "team_id": "95961",
+    "team_name": "石家庄功夫",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/E9/F4/rBUC6Gd9ACyAHRFcAACHfMsf5J4004.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "95961.png"
+  },
+  {
+    "team_id": "95962",
+    "team_name": "无锡吴钩",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/2F/4F/rBUC6GWXsoeAaassAACF4r5d_FI432.png",
+    "competition_id": "129",
+    "competition_name": "中甲",
+    "file_name": "95962.png"
+  },
+  {
+    "team_id": "96",
+    "team_name": "萨尔茨堡红牛",
+    "team_logo": "https://sd.qunliao.info/fastdfs5/M00/4B/31/rB8CCl-NDg-AJc7lAABEuHWO4dk964.png",
+    "competition_id": "14",
+    "competition_name": "欧联",
+    "file_name": "96.png"
+  },
+  {
+    "team_id": "962",
+    "team_name": "万隆",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2J6ARMEtAABZVplyx7U461.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "962.png"
+  },
+  {
+    "team_id": "9693",
+    "team_name": "塞内加尔U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2RKAS3NNAAAC2Nr8OzA389.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9693.png"
+  },
+  {
+    "team_id": "9702",
+    "team_name": "马里U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MuAZdUQAAAAt3KMCHI418.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9702.png"
+  },
+  {
+    "team_id": "9703",
+    "team_name": "摩洛哥U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2NWAZiM1AAADL6R9t6s156.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9703.png"
+  },
+  {
+    "team_id": "9709",
+    "team_name": "埃及U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FSAG-vgAAAEuBDOMI0727.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9709.png"
+  },
+  {
+    "team_id": "9710",
+    "team_name": "喀麦隆U17",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/73/ChOxM1xC2DOANFruAAAC0MdXvjY313.png",
+    "competition_id": "333",
+    "competition_name": "U17世界杯",
+    "file_name": "9710.png"
+  },
+  {
+    "team_id": "972",
+    "team_name": "印度尼西亚",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2J-AObo9AAAA7100FM4797.png",
+    "competition_id": "225",
+    "competition_name": "亚洲杯",
+    "file_name": "972.png"
+  },
+  {
+    "team_id": "973",
+    "team_name": "德黑兰独立",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2KCATDPGAAAYc4fwOnA676.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "973.png"
+  },
+  {
+    "team_id": "97406",
+    "team_name": "永恒体育",
+    "team_logo": "https://sd.qunliao.info/fastdfs7/M00/A1/59/rBUBsma-_qWAAjgLAAYuqaJupMw954.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "97406.png"
+  },
+  {
+    "team_id": "978",
+    "team_name": "塞帕罕",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2KCADCZyAAAY3MyyyNs665.png",
+    "competition_id": "228",
+    "competition_name": "亚冠二级",
+    "file_name": "978.png"
+  },
+  {
+    "team_id": "98059",
+    "team_name": "奥斯汀",
+    "team_logo": "https://sd.qunliao.info/fastdfs6/M00/1C/D1/rBUESWDIggCADK9vAAA3bGSWjPE277.png",
+    "competition_id": "26",
+    "competition_name": "美职联",
+    "file_name": "98059.png"
+  },
+  {
+    "team_id": "986",
+    "team_name": "伊朗",
+    "team_logo": "https://sd.qunliao.info/fastdfs8/M00/B2/4F/rBXRDGn-4pSAbpoIAAAdWfynXzU837.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "986.png"
+  },
+  {
+    "team_id": "987",
+    "team_name": "伊拉克",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2KKAUYxJAAAETkn3xgs261.png",
+    "competition_id": "61",
+    "competition_name": "世界杯",
+    "file_name": "987.png"
+  },
+  {
+    "team_id": "988",
+    "team_name": "舒尔本",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2KKAbmqPAAAVcVgoACI926.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "988.png"
+  },
+  {
+    "team_id": "992",
+    "team_name": "沙姆洛克流浪",
+    "team_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/78/ChOxM1xC2KOAIyegAAAXIS4-F7Y552.png",
+    "competition_id": "3904",
+    "competition_name": "欧协联",
+    "file_name": "992.png"
+  }
+]
