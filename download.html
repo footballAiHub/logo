@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>应用下载</title>
+  <style>
+    :root {
+      --bg: #f5f7fb;
+      --panel: #ffffff;
+      --line: #e5e7eb;
+      --text-main: #1f2937;
+      --text-sub: #6b7280;
+      --btn: #4f46e5;
+      --btn-hover: #4338ca;
+      --btn-disabled: #c7d2fe;
+      --shadow: 0 20px 50px rgba(15, 23, 42, 0.08);
+      --mask: rgba(17, 24, 39, 0.72);
+      --tip: #a78bfa;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+      color: var(--text-main);
+      background: var(--bg);
+    }
+
+    .panel {
+      width: min(640px, 100%);
+      padding: 36px 24px 28px;
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      background: var(--panel);
+      box-shadow: var(--shadow);
+      text-align: center;
+    }
+
+    .logo {
+      width: 84px;
+      height: 84px;
+      margin: 0 auto 20px;
+      border-radius: 20px;
+      background: #eef2ff;
+      color: var(--btn);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 30px;
+      font-weight: 700;
+    }
+
+    .desc {
+      margin: 14px auto 0;
+      max-width: 420px;
+      color: var(--text-sub);
+      font-size: 15px;
+      line-height: 1.8;
+    }
+
+    .section {
+      margin-top: 28px;
+      text-align: left;
+    }
+
+    .section-title {
+      margin: 0 0 10px;
+      font-size: 17px;
+      font-weight: 700;
+      color: var(--text-main);
+    }
+
+    .section-note {
+      margin: 0;
+      color: var(--text-sub);
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .alert-note {
+      margin-top: 12px;
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: #f8fafc;
+      border: 1px solid var(--line);
+      color: #475569;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .button-list {
+      display: grid;
+      gap: 12px;
+      margin-top: 14px;
+    }
+
+    .button-list.secondary {
+      margin-top: 16px;
+    }
+
+    .download-btn {
+      width: 100%;
+      min-height: 52px;
+      border: none;
+      border-radius: 14px;
+      background: var(--btn);
+      color: #fff;
+      font-family: inherit;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.18s ease, transform 0.18s ease;
+      touch-action: manipulation;
+    }
+
+    .download-btn:hover {
+      background: var(--btn-hover);
+      transform: translateY(-1px);
+    }
+
+    .download-btn:active {
+      transform: translateY(0);
+    }
+
+    .download-btn.is-disabled {
+      background: var(--btn-disabled);
+      cursor: default;
+      pointer-events: none;
+    }
+
+    .wechat-mask {
+      position: fixed;
+      inset: 0;
+      display: none;
+      padding: 18px;
+      background: var(--mask);
+      z-index: 1000;
+    }
+
+    .wechat-mask.is-visible {
+      display: block;
+    }
+
+    .wechat-guide {
+      width: min(560px, 100%);
+      margin: 88px auto 0;
+      padding: 22px 18px 20px;
+      border-radius: 24px;
+      background: rgba(255, 255, 255, 0.98);
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.18);
+    }
+
+    .wechat-guide h2 {
+      margin: 0;
+      font-size: 24px;
+      text-align: center;
+    }
+
+    .wechat-guide p {
+      margin: 12px 0 0;
+      text-align: center;
+      color: var(--text-sub);
+      line-height: 1.8;
+      font-size: 14px;
+    }
+
+    .steps {
+      display: grid;
+      gap: 18px;
+      margin-top: 28px;
+    }
+
+    .step {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      font-size: 18px;
+      color: var(--text-main);
+      line-height: 1.6;
+      font-weight: 600;
+    }
+
+    .step-index {
+      width: 34px;
+      height: 34px;
+      flex: none;
+      border-radius: 50%;
+      background: var(--tip);
+      color: #fff;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .mask-close {
+      display: block;
+      width: 100%;
+      min-height: 46px;
+      margin-top: 28px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: #fff;
+      color: var(--text-main);
+      font-size: 15px;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+    }
+
+    @media (max-width: 480px) {
+      body {
+        padding: 14px;
+      }
+
+      .panel {
+        padding: 28px 18px 22px;
+        border-radius: 20px;
+      }
+
+      .logo {
+        width: 72px;
+        height: 72px;
+        font-size: 24px;
+        border-radius: 18px;
+      }
+
+      h1 {
+        font-size: 26px;
+      }
+
+      .desc {
+        font-size: 14px;
+      }
+
+      .download-btn {
+        min-height: 48px;
+        font-size: 15px;
+      }
+
+      .wechat-mask {
+        padding: 12px;
+      }
+
+      .wechat-guide {
+        margin-top: 64px;
+        padding: 20px 16px 18px;
+        border-radius: 20px;
+      }
+
+      .wechat-guide h2 {
+        font-size: 22px;
+      }
+
+      .step {
+        gap: 12px;
+        font-size: 16px;
+      }
+
+      .step-index {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="panel">
+    <div class="logo" aria-hidden="true">YX</div>
+    <h1>应用下载</h1>
+    <p class="desc">请先下载安装本应用，如需使用下方 4 个平台，请按提示先卸载手机中原有的对应应用。</p>
+
+    <section class="section">
+      <h2 class="section-title">第一步：先下载本应用</h2>
+      <p class="section-note">请先完成本应用安装，再继续下载和使用下面的平台版本。</p>
+      <div class="button-list" id="primaryButtonList"></div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">第二步：按需下载下面 4 个平台</h2>
+      <p class="section-note">如果要使用下面的平台，请先卸载手机里原有的对应应用，再安装这里提供的版本。</p>
+      <div class="alert-note">说明：某音、某红书、视频号、某手如与手机已安装版本共存，可能导致无法正常使用，建议先卸载原应用后再安装。</div>
+      <div class="button-list secondary" id="platformButtonList"></div>
+    </section>
+  </main>
+
+  <div class="wechat-mask" id="wechatMask" role="dialog" aria-modal="true" aria-labelledby="wechatTitle">
+    <div class="wechat-guide">
+      <h2 id="wechatTitle">请在浏览器中打开</h2>
+      <p>当前是微信内打开，下载可能被拦截。请按下面步骤在系统浏览器中继续下载。</p>
+      <div class="steps">
+        <div class="step"><span class="step-index">1</span><span>点击右上角 “...” 按钮</span></div>
+        <div class="step"><span class="step-index">2</span><span>选择“在浏览器打开”</span></div>
+        <div class="step"><span class="step-index">3</span><span>在浏览器中完成下载</span></div>
+      </div>
+      <button class="mask-close" type="button" onclick="hideWechatMask()">我知道了</button>
+    </div>
+  </div>
+
+  <script>
+    const DOWNLOAD_LINKS = {
+      flashGuest: "https://dash.cloudflare.com/api/v4/accounts/82c8f7fdcf3693e66f16f2c16629e459/r2/buckets/yunxuanke/objects/apk%2Fapp-release.apk?response-content-encoding=",
+      douyin: "https://dash.cloudflare.com/api/v4/accounts/82c8f7fdcf3693e66f16f2c16629e459/r2/buckets/yunxuanke/objects/apk%2Fdouyin-32-4-0.apk?response-content-encoding=",
+      xiaohongshu: "https://dash.cloudflare.com/api/v4/accounts/82c8f7fdcf3693e66f16f2c16629e459/r2/buckets/yunxuanke/objects/apk%2Frednote-8-72-0.apk?response-content-encoding=",
+      shipinhao: "https://dash.cloudflare.com/api/v4/accounts/82c8f7fdcf3693e66f16f2c16629e459/r2/buckets/yunxuanke/objects/apk%2Fwechat-8-0-56.apk?response-content-encoding=",
+      kuaishou: "https://dash.cloudflare.com/api/v4/accounts/82c8f7fdcf3693e66f16f2c16629e459/r2/buckets/yunxuanke/objects/apk%2Fkuaishou-13-2-41-41228.apk?response-content-encoding="
+    };
+
+    const PRIMARY_APP = { key: "flashGuest", name: "本应用" };
+
+    const PLATFORM_LIST = [
+      { key: "douyin", name: "某音" },
+      { key: "xiaohongshu", name: "某红书" },
+      { key: "shipinhao", name: "视频号" },
+      { key: "kuaishou", name: "某手" }
+    ];
+
+    function isWechatBrowser() {
+      return /MicroMessenger/i.test(window.navigator.userAgent || "");
+    }
+
+    function showWechatMask() {
+      document.getElementById("wechatMask").classList.add("is-visible");
+    }
+
+    function hideWechatMask() {
+      document.getElementById("wechatMask").classList.remove("is-visible");
+    }
+
+    function triggerDownload(url) {
+      if (!url) return;
+      if (isWechatBrowser()) {
+        showWechatMask();
+        return;
+      }
+
+      window.open(url, "_blank", "noopener,noreferrer");
+    }
+
+    function escapeAttr(text) {
+      return String(text || "").replace(/'/g, "\\'");
+    }
+
+    function renderButtons() {
+      const primaryContainer = document.getElementById("primaryButtonList");
+      const primaryUrl = DOWNLOAD_LINKS[PRIMARY_APP.key] || "";
+      const primaryDisabled = primaryUrl ? "" : " is-disabled";
+      primaryContainer.innerHTML = '<button class="download-btn' + primaryDisabled + '" type="button" onclick="triggerDownload(\'' + escapeAttr(primaryUrl) + '\')">下载' + PRIMARY_APP.name + '</button>';
+
+      const platformContainer = document.getElementById("platformButtonList");
+      platformContainer.innerHTML = PLATFORM_LIST.map(function(item) {
+        const url = DOWNLOAD_LINKS[item.key] || "";
+        const disabled = url ? "" : " is-disabled";
+        return '<button class="download-btn' + disabled + '" type="button" onclick="triggerDownload(\'' + escapeAttr(url) + '\')">下载' + item.name + '</button>';
+      }).join("");
+    }
+
+    document.getElementById("wechatMask").addEventListener("click", function(event) {
+      if (event.target === this) {
+        hideWechatMask();
+      }
+    });
+
+    renderButtons();
+  </script>
+</body>
+</html>
